@@ -1,0 +1,546 @@
+EVENT_CONCEPT_NAME,MEDDRA_PT,DEFINITION_LEVEL,MDR_CODE,UMLS_CUI
+Anaphylaxis,Anaphylactic reaction,narrow,10002198,C0002792
+,Anaphylactic shock,narrow,10002199,C0002792
+,Anaphylactic transfusion reaction,narrow,10067113,C0161840
+,Kounis syndrome,narrow,10069167,C2609176
+,Shock,broad,10040560,C0036974
+,Type I hypersensitivity,broad,10045240,C0020523
+Angioedema,Angioedema,narrow,10002424,C0002994
+,Circumoral oedema,narrow,10052250,C0239062
+,Conjunctival oedema,narrow,10010726,C0151601
+,Corneal oedema,narrow,10011033,C0010037
+,Epiglottic oedema,narrow,10015029,C0239281
+,Eye oedema,narrow,10052139,C0743680
+,Eye swelling,narrow,10015967,C0270996
+,Eyelid oedema,narrow,10015993,C0162285
+,Face oedema,narrow,10016029,C0542571
+,Gingival oedema,narrow,10049305,C0277986
+,Gingival swelling,narrow,10018291,C0235324
+,Oedema mouth,narrow,10030110,C0236065
+,Oropharyngeal swelling,narrow,10031118,C0853908
+,Palatal oedema,narrow,10056998,C0240621
+,Periorbital oedema,narrow,10034545,C0151205
+,Pharyngeal oedema,narrow,10034829,C0236024
+,Scleral oedema,narrow,10057431,C1112659
+,Swelling face,narrow,10042682,C0151602
+,Swollen tongue,narrow,10042727,C0236068
+,Tongue oedema,narrow,10043967,C0151610
+,Tracheal oedema,narrow,10044296,C0264334
+,Laryngeal oedema,narrow,10023845,C0023052
+,Laryngotracheal oedema,narrow,10023893,C0235551
+,Lip oedema,narrow,10024558,C0541923
+,Lip swelling,narrow,10024570,C0240211
+,Gleich's syndrome,broad,10066837,C1868715
+,Allergic oedema,broad,10060934,C0847033
+,Idiopathic urticaria,broad,10021247,C0157741
+,Urticaria,broad,10046735,C0042109
+,Urticaria cholinergic,broad,10046740,C0152230
+,Urticaria chronic,broad,10052568,C0263338
+,Urticaria papular,broad,10046750,C0263352
+,Small bowel angioedema,broad,10051401,C0948050
+Atrial fibrillation,Atrial fibrillation,narrow,10003658,C0004238
+,Atrial tachycardia,broad,10003668,C0546959
+,Supraventricular tachyarrhythmia,broad,10065342,C1698480
+,Arrhythmia supraventricular,broad,10003130,C0428974
+,Supraventricular tachycardia,broad,10042604,C0039240
+Bradycardia,Bradyarrhythmia,narrow,10049765,C0079035
+,Heart rate decreased,narrow,10019301,C0428977
+,Sinus bradycardia,narrow,10040741,C0085610
+,Bradycardia,narrow,10006093,C0428977
+,Heart rate abnormal,broad,10019300,C1744601
+,Arrhythmia,broad,10003119,C0003811
+,Sinus arrhythmia,broad,10040739,C0003813
+,Ventricular arrhythmia,broad,10047281,C0085612
+,Nodal arrhythmia,broad,10029458,C0264893
+,Arrhythmia supraventricular,broad,10003130,C0428974
+,Paroxysmal arrhythmia,broad,10050106,C0919605
+Biliary tract disorders,Cholecystitis,narrow,10008612,C0008325
+,Cholecystitis acute,narrow,10008614,C0149520
+,Cholecystitis chronic,narrow,10008617,C0085694
+,Gallbladder disorder,broad,10017626,C0016977
+Coronary Heart Disease,Coronary artery disease,narrow,10011078,C1956346
+,Microvascular coronary artery disease,narrow,10072685,C3495826
+,Coronary artery aneurysm,narrow,10011071,C0010051
+,Arteriospasm coronary,narrow,10003225,C0010073
+,Coronary artery thrombosis,narrow,10011091,C0010072
+,Subclavian coronary steal syndrome,narrow,10064994,C1610620
+,Arteriosclerosis coronary artery,narrow,10003211,C0010054
+,Coronary artery stenosis,narrow,10011089,C0242231
+,Coronary artery occlusion,narrow,10011086,C0151814
+,Coronary artery restenosis,narrow,10056489,C0948480
+Drug reaction with eosinophilia and systemic symptoms (DRESS),Drug reaction with eosinophilia and systemic symptoms,narrow,10058919,C1142139
+,Dapsone syndrome,narrow,10048901,C0877404
+,Pseudolymphoma,broad,10037127,C0221269
+,Drug hypersensitivity,broad,10013700,C0013182
+Dysphonia,Dysphonia,narrow,10013952,C1527344
+,Spasmodic dysphonia,narrow,10067672,C0264588
+,Aphonia,narrow,10002953,C0003564
+,Vocal cord disorder,broad,10061581,C0264309
+Dyspnea,Dyspnoea,narrow,10013968,C0013404
+,Dyspnoea at rest,broad,10013969,C2712054
+Eosinophilic pneumonia,Eosinophilic pneumonia,narrow,10014962,C1527407
+,Eosinophilic pneumonia acute,narrow,10052832,C0242459
+,Eosinophilic pneumonia chronic,narrow,10052833,C0008680
+,Eosinophilic bronchitis,broad,10065563,C1698398
+,Charcot-Leyden crystals,broad,10008413,C0863141
+,Allergic granulomatous angiitis,broad,10048594,C0008728
+,Angiolymphoid hyperplasia with eosinophilia,broad,10048637,C0205788
+,Eosinophilia myalgia syndrome,broad,10014952,C0085179
+,Hypereosinophilic syndrome,broad,10048643,C1540912
+,Loeffler's syndrome,broad,10024794,C0242459
+,Pneumonitis,broad,10035742,C0032285
+,Pneumonitis chemical,broad,10035745,C0264458
+,Pulmonary eosinophilia,broad,10037382,C0034068
+,Pulmonary vasculitis,broad,10037457,C0234962
+Hematopoietic disorders,Agranulocytosis,narrow,10001507,C0001824
+,Aplastic anaemia,narrow,10002967,C0002874
+,Bone marrow failure,narrow,10065553,C0030312
+,Febrile bone marrow aplasia,narrow,10053213,C1095923
+,Febrile neutropenia,narrow,10016288,C0746883
+,Neutropenic colitis,narrow,10062959,C0400823
+,Neutropenic infection,narrow,10059482,C1167779
+,Neutropenic sepsis,narrow,10049151,C0877153
+,Pancytopenia,narrow,10033661,C0030312
+,Panmyelopathy,narrow,10050026,C0242034
+,Pure white cell aplasia,narrow,10068043,C2242624
+Priapism,Priapism,narrow,10036661,C0033117
+,Erection increased,narrow,10015120,C0541941
+,Spontaneous penile erection,narrow,10049118,C0877144
+,Disturbance in sexual arousal,broad,10058929,C0855242
+Gastrooesophageal reflux disease (GERD),Gastrooesophageal reflux disease,narrow,10017885,C0017168
+Hallucinations,Hallucination,narrow,10019063,C0018524
+,"Hallucination, auditory",narrow,10019070,C0233762
+,"Hallucination, visual",narrow,10019075,C0233763
+,"Hallucination, olfactory",narrow,10019072,C0233765
+,"Hallucination, gustatory",narrow,10019071,C0233766
+,"Hallucination, tactile",narrow,10019074,C0233767
+,Somatic hallucination,narrow,10062684,C0233774
+,"Hallucinations, mixed",narrow,10019079,C0855223
+,Hypnagogic hallucination,broad,10020927,C0233773
+,Hypnopompic hallucination,broad,10020928,C0424082
+Hemophilia A,Factor VIII deficiency,narrow,10016080,C0019069
+,Haemophilia A with anti factor VIII,narrow,10056492,C1096485
+,Acquired haemophilia,broad,10053745,C1096116
+,Haemophilia,broad,10061992,C0684275
+,"Acquired haemophilia with anti FVIII, XI, or XIII",broad,10056496,C1096491
+Hypercalcemia,Blood calcium increased,narrow,10005396,C0020437
+,Hypercalcaemia,narrow,10020583,C0020437
+,Calcium intoxication,broad,10006966,C0595876
+,Blood calcium abnormal,broad,10005393,C0853772
+Hypothyroidism,Generalised resistance to thyroid hormone,narrow,10018096,C2940786
+,Hypothyroidic goitre,narrow,10059844,C1168322
+,Hypothyroidism,narrow,10021114,C0020676
+,Myxoedema,narrow,10028665,C0027145
+,Myxoedema coma,narrow,10060819,C0238298
+,Post procedural hypothyroidism,narrow,10065306,C0494364
+,Primary hypothyroidism,narrow,10036697,C0700502
+,Secondary hypothyroidism,narrow,10039840,C0271789
+,Tertiary hypothyroidism,narrow,10043289,C0854492
+,Thyroid atrophy,narrow,10043693,C2981141
+,Biopsy thyroid gland abnormal,broad,10004889,C0853426
+,Physical thyroid examination abnormal,broad,10070291,C2748245
+,Thyroid atrophy,broad,10043693,C2981141
+,Thyroid function test abnormal,broad,10043730,C0476414
+,Thyroid releasing hormone challenge test abnormal,broad,10043764,C0855556
+,Thyroid size decreased,broad,10072829,C3495856
+,Ultrasound thyroid abnormal,broad,10060987,C1262028
+Interstitial nephritis,Tubulointerstitial nephritis,narrow,10048302,C0041349
+Liver damage,Biliary tract disorder,narrow,10061008,C0005424
+,Hepatic pain,narrow,10019705,C0522067
+,Hepatorenal syndrome,narrow,10019846,C0019212
+,Coma hepatic,narrow,10010075,C0019147
+,Hepatic congestion,narrow,10019645,C0267821
+,Hepatic necrosis,narrow,10019692,C0151798
+,Jaundice,narrow,10023126,C0022346
+,Bilirubin excretion disorder,narrow,10061009,C0012711
+,Liver disorder,narrow,10024670,C0023895
+,Hepatic infarction,narrow,10019680,C0151731
+,Liver function test abnormal,narrow,10024690,C0151766
+,Hepatic enzyme increased,narrow,10060795,C0235996
+,Hepatitis,narrow,10019717,C0019158
+,Hepatomegaly,narrow,10019842,C0019209
+,Hepatotoxicity,narrow,10019851,C0235378
+,Hepatic cirrhosis,narrow,10019641,C0023890
+,Hepatic fibrosis,narrow,10019668,C0239946
+,Hepatic steatosis,narrow,10019708,C2711227
+,Hepatic failure,narrow,10019663,C0085605
+,Liver injury,narrow,10067125,C0160390
+,Hyperbilirubinaemia,narrow,10020578,C0020433
+,Icterus index increased,narrow,10021209,C0858827
+,Jaundice hepatocellular,narrow,10023136,C1262535
+,Mixed liver injury,narrow,10066758,C1735647
+,Ocular icterus,narrow,10058117,C1141938
+,Yellow skin,narrow,10048245,C0558148
+,Alanine aminotransferase abnormal,narrow,10001547,C0855619
+,Alanine aminotransferase increased,narrow,10001551,C0151905
+,Aspartate aminotransferase abnormal,narrow,10003477,C0855623
+,Aspartate aminotransferase increased,narrow,10003481,C0151904
+,Bilirubin conjugated abnormal,narrow,10067718,C1963819
+,Bilirubin conjugated increased,narrow,10004685,C0855625
+,Biopsy liver abnormal,narrow,10004792,C0740307
+,Blood bilirubin abnormal,narrow,10058477,C1142015
+,Blood bilirubin increased,narrow,10005364,C0311468
+,Blood bilirubin unconjugated increased,narrow,10005370,C0854134
+,Hepatic enzyme abnormal,narrow,10062685,C0438237
+,Hepatic enzyme decreased,narrow,10060794,C1261989
+,Hepatic function abnormal,narrow,10019670,C0086565
+,Hypertransaminasaemia,narrow,10068237,C2242708
+,Transaminases abnormal,narrow,10062688,C1328397
+,Transaminases increased,broad,10054889,C0438717
+,Ultrasound liver abnormal,broad,10045428,C0740315
+,Urine bilirubin increased,broad,10050792,C0920111
+Movement disorders,Movement disorder,narrow,10028035,C0026650
+,Myoclonus,narrow,10028622,C0027066
+,Oculogyric crisis,narrow,10030071,C0085637
+,Dystonia,narrow,10013983,C0393593
+,Extrapyramidal disorder,narrow,10015832,C0015371
+,Choreoathetosis,narrow,10008754,C0085583
+,Dyskinesia,narrow,10013916,C0013384
+,Akathisia,broad,10001540,C0392156
+,Buccoglossal syndrome,broad,10006532,C0151538
+,Dopamine dysregulation syndrome,broad,10067468,C1963757
+,Dyskinesia oesophageal,broad,10013924,C0014858
+,Grimacing,broad,10061991,C0239779
+,Protrusion tongue,broad,10037076,C0241442
+,Rabbit syndrome,broad,10068395,C2363775
+,Respiratory dyskinesia,broad,10057570,C1112666
+,Torticollis,broad,10044074,C0040485
+,Blepharospasm,broad,10005159,C0005747
+,Oromandibular dystonia,broad,10067954,C2242577
+,Spasmodic dysphonia,broad,10067672,C0264588
+,Writer's cramp,broad,10072249,C0154676
+,Meige's syndrome,broad,10027138,C0025183
+,Tardive dyskinesia,broad,10043118,C0686347
+,Athetosis,broad,10003620,C0004158
+,Choreoathetosis,broad,10008754,C0085583
+,Paroxysmal choreoathetosis,broad,10065657,C1868682
+,Ataxia,broad,10003591,C0004134
+,Ballismus,broad,10058504,C0752196
+,Bradykinesia,broad,10006100,C0233565
+,Hypokinesia,broad,10021021,C0086439
+,Akinesia,broad,10001541,C0085623
+,Dysarthria,broad,10013887,C0013362
+,Freezing phenomenon,broad,10060904,C1262022
+,Neuroleptic malignant syndrome,broad,10029282,C0027849
+,Muscle rigidity,broad,10028330,C0026837
+,Cogwheel rigidity,broad,10009848,C0151564
+,Chorea,broad,10008748,C0008489
+,Holmes tremor,broad,10069099,C2609153
+,Orthostatic tremor,broad,10069917,C2315430
+,Hiccups,broad,10020039,C0019521
+,Paroxysmal choreoathetosis,broad,10065657,C1868682
+,Restless legs syndrome,broad,10058920,C0035258
+,Muscle spasms,broad,10028334,C0037763
+,Facial spasm,broad,10063006,C0278151
+,Tongue spasm,broad,10043981,C0234953
+,Myofascial spasm,broad,10051378,C0948650
+,Ciliary muscle spasm,broad,10009185,C0235229
+,Stereotypy,broad,10042008,C0038273
+,Tourette's disorder,broad,10044126,C0040517
+,Tremor,broad,10044565,C0040822
+,Action tremor,broad,10072413,C0234376
+,Intention tremor,broad,10022520,C0234376
+,Resting tremor,broad,10071390,C0234379
+,Tremor neonatal,broad,10044575,C0235843
+,Essential tremor,broad,10015496,C0270736
+,Familial tremor,broad,10016212,C0393615
+,Parkinsonian rest tremor,broad,10056437,C1112182
+,Cerebellar ataxia,broad,10008025,C0007758
+,Vestibular ataxia,broad,10047385,C0235927
+,Cerebral ataxia,broad,10050389,C0270721
+Nephrotic syndrome,Nephrotic syndrome,narrow,10029164,C0027726
+,Focal segmental glomerulosclerosis,narrow,10067757,C0017668
+,Glomerulonephritis membranoproliferative,narrow,10018370,C0017662
+,Glomerulonephritis minimal lesion,narrow,10018374,C1704320
+,Fibrillary glomerulonephritis,broad,10068279,C0268749
+,Hepatitis virus-associated nephropathy,broad,10068610,C2363908
+,Mesangioproliferative glomerulonephritis,broad,10066453,C1737225
+,Glomerulonephritis proliferative,broad,10018376,C0235618
+,Glomerulonephritis membranous,broad,10018372,C0017665
+Nightmares,Nightmare,narrow,10029412,C0028084
+,Abnormal dreams,broad,10000125,C0234458
+Nocturnal enuresis,Urinary incontinence,narrow,10046543,C0042024
+,Enuresis,narrow,10014928,C0014394
+Ocular Toxicity,Ocular toxicity,narrow,10061137,C1262036
+,Vision blurred,narrow,10047513,C0344232
+,Visual acuity reduced,narrow,10047531,C0234632
+,Visual impairment,narrow,10047571,C0042798
+,Cystoid macular oedema,narrow,10058202,C0024440
+,Macular oedema,narrow,10025415,C0271051
+,Retinal vein occlusion,narrow,10038907,C0035328
+,Retinal vein thrombosis,narrow,10038908,C1527411
+,Eye haemorrhage,narrow,10015926,C0015402
+,Retinal haemorrhage,narrow,10038867,C0035317
+,Corneal endotheliitis,narrow,10062621,C0423262
+,Dry eye,narrow,10013774,C0314719
+,Eye pain,narrow,10015958,C0151827
+,Glaucoma,narrow,10018304,C0017601
+,Cataract,narrow,10007739,C0086543
+,Cataract nuclear,narrow,10007759,C0392557
+,Cataract subcapsular,narrow,10007764,C0235259
+,Glaucomatous optic disc atrophy,narrow,10057935,C0271342
+,Angle closure glaucoma,narrow,10002500,C0017605
+,Borderline glaucoma,narrow,10006027,C1533674
+,Diabetic glaucoma,narrow,10012667,C0854493
+,Normal tension glaucoma,narrow,10067013,C0152136
+,Ocular hypertension,narrow,10030043,C0028840
+,Open angle glaucoma,narrow,10030348,C0017612
+,Phacolytic glaucoma,narrow,10034798,C0152137
+,Pigmentary glaucoma,narrow,10035015,C0017612
+,Iritis,narrow,10022955,C0022081
+,Iridocyclitis,narrow,10022941,C0022073
+,Ulcerative keratitis,narrow,10064996,C0010043
+,Allergic keratitis,broad,10057380,C1112365
+,Arcus lipoides,broad,10058646,C1142068
+,Biopsy cornea,broad,10004766,C0197417
+,Biopsy cornea abnormal,broad,10004767,C0853096
+,Bowman's membrane disorder,broad,10057884,C1141886
+,Corneal abrasion,broad,10010984,C0010032
+,Corneal abscess,broad,10010985,C0155091
+,Corneal bleeding,broad,10051558,C0339255
+,Corneal decompensation,broad,10052117,C0948284
+,Corneal defect,broad,10051559,C0948085
+,Corneal degeneration,broad,10010996,C0155118
+,Corneal deposits,broad,10011000,C0162281
+,Corneal diameter decreased,broad,10059298,C1167713
+,Corneal diameter increased,broad,10059297,C1167712
+,Corneal disorder,broad,10061453,C0010034
+,Corneal dystrophy,broad,10011005,C0010036
+,Corneal epithelial microcysts,broad,10068144,C1720485
+,Corneal epithelium defect,broad,10011010,C0854114
+,Corneal erosion,broad,10011013,C0392163
+,Corneal exfoliation,broad,10064489,C1536054
+,Corneal graft rejection,broad,10011017,C0339303
+,Corneal hypertrophy,broad,10055015,C1096351
+,Corneal infection,broad,10061788,C0729777
+,Corneal infiltrates,broad,10011022,C0853336
+,Corneal lesion,broad,10011026,C0151571
+,Corneal lesion removal,broad,10011028,C0197420
+,Corneal light reflex test abnormal,broad,10057512,C1112407
+,Corneal oedema,broad,10011033,C0010037
+,Corneal opacity,broad,10011035,C0010038
+,Corneal operation,broad,10061789,C0197402
+,Corneal perforation,broad,10011039,C0339293
+,Corneal pigmentation,broad,10011040,C0423226
+,Corneal reflex decreased,broad,10011042,C0151572
+,Corneal scar,broad,10011044,C0349702
+,Corneal striae,broad,10052118,C0948285
+,Corneal thinning,broad,10054760,C1096274
+,Corneal touch,broad,10011055,C0854719
+,Corneal transplant,broad,10054846,C0010042
+,Detached Descemet's membrane,broad,10012532,C0236058
+,Eye disorder,broad,10015916,C0015397
+,Eye inflammation,broad,10015943,C0239429
+,Eye injury,broad,10061128,C0015408
+,Injury corneal,broad,10022120,C0339289
+,Iridocorneal endothelial syndrome,broad,10053678,C1096100
+,Kayser-Fleischer ring,broad,10023321,C0152457
+,Keratectomy,broad,10069089,C0197409
+,Keratitis,broad,10023332,C0022568
+,Keratitis interstitial,broad,10023335,C0155088
+,Keratitis sclerosing,broad,10023339,C0155090
+,Keratoconus,broad,10023353,C0022578
+,Keratomalacia,broad,10023361,C0152455
+,Keratometry,broad,10023363,C0430885
+,Keratomileusis,broad,10067903,C0339022
+,Keratopathy,broad,10023365,C0235270
+,Keratorhexis,broad,10059166,C1167680
+,Keratotomy,broad,10023374,C0197405
+,Limbal hyperaemia,broad,10063456,C0423193
+,Macrocornea,broad,10059253,C0344530
+,Microcornea,broad,10057414,C0266544
+,Photokeratitis,broad,10034944,C0155078
+,Photorefractive keratectomy,broad,10067902,C0395416
+,Punctate keratitis,broad,10037508,C0259799
+,Terrien's marginal degeneration,broad,10043286,C0271283
+,Topography corneal abnormal,broad,10044060,C0855701
+,Vitamin A deficiency related corneal disorder,broad,10047589,C0854718
+,Fundoscopy abnormal,broad,10017520,C0438184
+,Glaucomatocyclitic crises,broad,10018333,C0152138
+,Gonioscopy abnormal,broad,10018555,C0854012
+,Halo vision,broad,10019099,C0422974
+,Intraocular pressure fluctuation,broad,10068517,C2363846
+,Intraocular pressure increased,broad,10022806,C0234708
+,Intraocular pressure test abnormal,broad,10060951,C1262025
+,Iridotomy,broad,10022944,C1533613
+,Loss of visual contrast sensitivity,broad,10064133,C1535944
+,Ophthalmic fluid drainage,broad,10053299,C1095951
+,Optic discs blurred,broad,10030923,C0030353
+,Optic nerve cup/disc ratio increased,broad,10057567,C1112418
+,Optic nerve cupping,broad,10030931,C0852952
+,Phacotrabeculectomy,broad,10059276,C1167708
+,Pupillary light reflex tests abnormal,broad,10037525,C0853998
+,Slit-lamp tests abnormal,broad,10041033,C0854005
+,Trabeculectomy,broad,10044277,C0040574
+,Trabeculoplasty,broad,10052697,C0040574
+,Visual field tests abnormal,broad,10047567,C0854021
+,Acquired lenticonus,broad,10064659,C1611156
+,Aphakia,broad,10002945,C0003534
+,Cataract cortical,broad,10007748,C0271160
+,Cataract diabetic,broad,10007749,C0011876
+,Cataract operation,broad,10063797,C1504458
+,Floppy iris syndrome,broad,10066373,C1735601
+,Hepato-lenticular degeneration,broad,10019819,C0019202
+,Lens dislocation,broad,10024203,C0023309
+,Lens disorder,broad,10061219,C0023308
+,Posterior capsulotomy,broad,10066417,C1735871
+,Toxic anterior segment syndrome,broad,10066366,C1561982
+Osteonecrosis of the jaw,Osteonecrosis of jaw,narrow,10064658,C1401381
+,Osteonecrosis,broad,10031264,C0029445
+Palpitations,Palpitations,narrow,10033557,C0030252
+,Arrhythmia,broad,10003119,C0003811
+Peripheral vascular disorder,Peripheral vascular disorder,narrow,10034636,C0085096
+,Peripheral artery stenosis,narrow,10072563,C3495797
+,Peripheral arterial occlusive disease,narrow,10062585,C1306889
+,Raynaud's phenomenon,narrow,10037912,C0034735
+,Vasospasm,narrow,10047163,C0085616
+,Vasoconstriction,narrow,10047139,C1456863
+,Intermittent claudication,broad,10022562,C0021775
+,Ischaemic limb pain,broad,10062610,C1262161
+,Peripheral ischaemia,broad,10034576,C0235490
+Pruritis,Eye pruritus,narrow,10052140,C0022281
+,Pruritus,narrow,10037087,C0033774
+,Anal pruritus,narrow,10068172,C0033775
+,Pruritus genital,narrow,10037093,C0033777
+,Senile pruritus,narrow,10039986,C0263351
+,Aquagenic pruritus,narrow,10003071,C0406409
+,Pruritus generalised,narrow,10052576,C0475858
+,Ear pruritus,narrow,10052138,C0849907
+,Eyelids pruritus,narrow,10051627,C0849918
+,Injection site pruritus,narrow,10022093,C0852995
+,Application site pruritus,narrow,10003053,C0853714
+,Gingival pruritus,narrow,10049306,C0877202
+,Oral pruritus,narrow,10052894,C0948521
+,Brachioradial pruritus,narrow,10071443,C1304055
+,Cholestatic pruritus,narrow,10064190,C1535964
+,Lip pruritus,narrow,10070721,C2939021
+,Pruritus allergic,narrow,10063438,C1504346
+,Tongue pruritus,narrow,10070072,C2748057
+,Uraemic pruritus,narrow,10060875,C1262019
+,Vulvovaginal pruritus,narrow,10056530,C1112214
+,Drug hypersensitivity,broad,10013700,C0013182
+,Documented hypersensitivity to administered drug,broad,10064372,C1536015
+QT prolongation,Long QT syndrome,narrow,10024803,C0023976
+,Electrocardiogram QT prolonged,narrow,10014387,C0151878
+,Torsade de pointes,narrow,10044066,C0040479
+,Electrocardiogram QT interval abnormal,narrow,10063748,C1504435
+,Electrocardiogram abnormal,broad,10014363,C0522055
+Severely depressed HDL cholesterol,Hypo HDL cholesterolaemia,narrow,10068961,C2609107
+,Blood cholesterol decreased,broad,10005424,C1536916
+,Total cholesterol/HDL ratio abnormal,broad,10058633,C1142061
+,Total cholesterol/HDL ratio increased,broad,10058630,C1142059
+,Blood cholesterol abnormal,broad,10005423,C0853595
+,Hypocholesterolaemia,broad,10020961,C0151718
+,LDL/HDL ratio increased,broad,10049030,C0877123
+Sprue-like enteropathy ,Intestinal villi atrophy,narrow,10049443,C0877214
+,Malabsorption,narrow,10025476,C0024523
+,Coeliac disease,narrow,10009839,C0007570
+,Diarrhoea,broad,10012735,C0011991
+Severe bullous dermatitis,Stevens-Johnson syndrome,narrow,10042033,C0038325
+,Toxic epidermal necrolysis,narrow,10044223,C0014518
+,Erythema multiforme,broad,10015218,C0014742
+,Dermatitis bullous,broad,10012441,C0085932
+Tachycardia,Tachycardia,narrow,10043071,C0039231
+,Heart rate increased,narrow,10019303,C0039231
+,Tachyarrhythmia,narrow,10049447,C0080203
+,Tachycardia paroxysmal,narrow,10043079,C0039236
+,Sinus tachycardia,narrow,10040752,C0039239
+,Supraventricular tachycardia,narrow,10042604,C0039240
+,Ventricular tachycardia,narrow,10047302,C0042514
+,Atrial tachycardia,narrow,10003668,C0546959
+,Ventricular tachyarrhythmia,narrow,10065341,C0042514
+,Heart rate abnormal,broad,10019300,C1744601
+,Arrhythmia,broad,10003119,C0003811
+,Sinus arrhythmia,broad,10040739,C0003813
+,Ventricular arrhythmia,broad,10047281,C0085612
+,Nodal arrhythmia,broad,10029458,C0264893
+,Arrhythmia supraventricular,broad,10003130,C0428974
+,Paroxysmal arrhythmia,broad,10050106,C0919605
+,Supraventricular tachyarrhythmia,broad,10065342,C1698480
+Taste disorders,Ageusia,narrow,10001480,C2364111
+,Dysgeusia,narrow,10013911,C0013378
+,Hypogeusia,narrow,10020989,C0151934
+,Hypergeusia,narrow,10069147,C2609164
+,Gustometry abnormal,broad,10064480,C1536045
+Thrombocytopenia,Thrombocytopenia,narrow,10043554,C0040034
+,Platelet count decreased,narrow,10035528,C0392386
+,Platelet production decreased,narrow,10035540,C0221147
+,Platelet destruction increased,narrow,10035531,C0221148
+,Thrombotic thrombocytopenic purpura,narrow,10043648,C0034155
+,Idiopathic thrombocytopenic purpura,narrow,10021245,C0043117
+,Autoimmune thrombocytopenia,narrow,10050245,C0242584
+,Thrombocytopenic purpura,narrow,10043561,C0857305
+,Platelet disorder,broad,10035532,C0005818
+,Platelet count abnormal,broad,10035526,C0580317
+Thrombotic microangiopathy,Thrombotic microangiopathy,narrow,10043645,C2717961
+,Haemolytic uraemic syndrome,narrow,10018932,C0019061
+,Thrombotic thrombocytopenic purpura,narrow,10043648,C0034155
+,Disseminated intravascular coagulation,broad,10013442,C0012739
+,Scleroderma renal crisis,broad,10062553,C1262147
+,Malignant hypertension,broad,10025600,C0020540
+,Malignant renal hypertension,broad,10026674,C0854419
+,Malignant hypertensive heart disease,broad,10025603,C0155584
+,Antiphospholipid syndrome,broad,10002817,C0085278
+,Hypercoagulation,broad,10020608,C0542027
+,Thrombosis,broad,10043607,C0040053
+Urticaria,Urticaria,narrow,10046735,C0042109
+,Urticaria pigmentosa,narrow,10046752,C0042111
+,Urticaria cholinergic,narrow,10046740,C0152230
+,Idiopathic urticaria,narrow,10021247,C0157741
+,Urticaria vibratory,narrow,10052571,C0157743
+,Cold urticaria,narrow,10009869,C0221207
+,Urticaria vesiculosa,narrow,10046755,C0234934
+,Urticaria thermal,narrow,10061399,C0263332
+,Urticaria contact,narrow,10046742,C0263333
+,Urticaria aquagenic,narrow,10046739,C0263334
+,Urticaria chronic,narrow,10052568,C0263338
+,Urticaria papular,narrow,10046750,C0263352
+,Solar urticaria,narrow,10041307,C0263610
+,Urticaria physical,narrow,10046751,C0343065
+,Injection site urticaria,narrow,10022107,C0392196
+,Chronic spontaneous urticaria,narrow,10072757,C0578870
+,Haemorrhagic urticaria,narrow,10059499,C1167785
+,Urticaria pressure,narrow,10052572,C1270880
+,Rash maculo-papular,broad,10037868,C0423791
+,Rash erythematous,broad,10037855,C0234913
+,Rash macular,broad,10037867,C0221201
+,Rash papular,broad,10037876,C0221202
+,Rash pruritic,broad,10037884,C0033771
+Vasculitis,Vasculitis,narrow,10047115,C0042384
+,Allergic granulomatous angiitis,narrow,10048594,C0008728
+,Anti-neutrophil cytoplasmic antibody positive vasculitis,narrow,10050894,C0919818
+,Aortitis,narrow,10002921,C0003509
+,Arteritis,narrow,10003230,C0003860
+,Arteritis coronary,narrow,10003232,C0264684
+,Behcet's syndrome,narrow,10004213,C0004943
+,Capillaritis,narrow,10068406,C0006902
+,Cerebral arteritis,narrow,10008087,C0007773
+,Cogan's syndrome,narrow,10056667,C0271270
+,Cutaneous vasculitis,narrow,10011686,C0262988
+,Diffuse vasculitis,narrow,10012978,C0542255
+,Erythema induratum,narrow,10015213,C0014741
+,Henoch-Schonlein purpura,narrow,10019617,C0034152
+,Injection site vasculitis,narrow,10067995,C2242596
+,Kawasaki's disease,narrow,10023320,C0026691
+,Leukocytoclastic vasculitis,narrow,10024377,C2973529
+,Lupus vasculitis,narrow,10058143,C0343205
+,Microscopic polyangiitis,narrow,10063344,C0343192
+,Nodular vasculitis,narrow,10029491,C0028258
+,Ocular vasculitis,narrow,10066926,C1868741
+,Polyarteritis nodosa,narrow,10036024,C0031036
+,Polymyalgia rheumatica,narrow,10036099,C0032533
+,Pseudovasculitis,narrow,10065255,C1698475
+,Pulmonary vasculitis,narrow,10037457,C0234962
+,Renal arteritis,narrow,10038373,C0854499
+,Renal vasculitis,narrow,10038546,C0152002
+,Retinal vasculitis,narrow,10038905,C0152026
+,Rheumatoid vasculitis,narrow,10048628,C0240903
+,Segmented hyalinising vasculitis,narrow,10067527,C0263400
+,Takayasu's arteritis,narrow,10043097,C0039263
+,Temporal arteritis,narrow,10043207,C1956391
+,Thromboangiitis obliterans,narrow,10043540,C0040021
+,Vascular purpura,narrow,10047097,C1368065
+,Vasculitic rash,narrow,10047111,C0521161
+,Vasculitis cerebral,narrow,10047119,C0238051
+,Vasculitis gastrointestinal,narrow,10048319,C0856069
+,Vasculitis necrotising,narrow,10047124,C1318520

@@ -1,0 +1,400 @@
+exposureId,exposureName,outcomeId,outcomeName,groundTruth,indicationId,indicationName,comparatorId,comparatorName,comparatorType
+1309204,Adenosine,500000301,OMOP Acute Liver Failure 1,0,21001538,Paroxysmal Supraventricular Tachycardia,1135766,Phenylephrine,Target Primary Indication->Comparator Any Indication
+1103552,almotriptan,500000301,OMOP Acute Liver Failure 1,0,21001116,Migraine,1125315,Acetaminophen,Target Primary Indication->Comparator Any Indication
+919204,Amylases,500000301,OMOP Acute Liver Failure 1,0,21002227,Pancreatic Insufficiency,1707164,Metronidazole,Target Any Indication->Comparator Any Indication
+917006,Benzocaine,500000301,OMOP Acute Liver Failure 1,0,21001752,Sore Throat,1192710,Chlorpheniramine,Target Primary Indication->Comparator Primary Indication
+1136601,benzonatate,500000301,OMOP Acute Liver Failure 1,0,21003205,Cough,1163944,Guaifenesin,Target Primary Indication->Comparator Primary Indication
+19008009,Cosyntropin,500000301,OMOP Acute Liver Failure 1,0,21000636,Acute Adrenocortical Insufficiency,1541079,Corticotropin,Target Any Indication->Comparator Any Indication
+924724,Dicyclomine,500000301,OMOP Acute Liver Failure 1,0,21002116,Irritable Bowel Syndrome,1101703,homatropine,Target Primary Indication->Comparator Any Indication
+739323,Droperidol,500000301,OMOP Acute Liver Failure 1,0,21003079,Pain,1125315,Acetaminophen,Target Primary Indication->Comparator Primary Indication
+931973,Endopeptidases,500000301,OMOP Acute Liver Failure 1,0,21002227,Pancreatic Insufficiency,1707164,Metronidazole,Target Any Indication->Comparator Any Indication
+1145379,Ergotamine,500000301,OMOP Acute Liver Failure 1,0,21003157,Vascular Headache,1125315,Acetaminophen,Target Any Indication->Comparator Any Indication
+1396012,ferrous gluconate,500000301,OMOP Acute Liver Failure 1,0,21000803,Iron Deficiency Anemia,941258,Docusate,Target Primary Indication->Comparator Primary Indication
+954853,Flavoxate,500000301,OMOP Acute Liver Failure 1,0,21003251,Dysuria,933724,Phenazopyridine,Target Primary Indication->Comparator Primary Indication
+1149380,fluticasone,500000301,OMOP Acute Liver Failure 1,0,21001770,Allergic Rhinitis,1154332,Pseudoephedrine,Target Primary Indication->Comparator Primary Indication
+1789276,gatifloxacin,500000301,OMOP Acute Liver Failure 1,0,21002274,E. Coli Pyelonephritis,1717963,ertapenem,Target Primary Indication->Comparator Any Indication
+1763779,Griseofulvin,500000301,OMOP Acute Liver Failure 1,0,21000307,Tinea Barbae,902950,Tolnaftate,Target Primary Indication->Comparator Any Indication
+923672,Hyoscyamine,500000301,OMOP Acute Liver Failure 1,0,21003251,Dysuria,954853,Flavoxate,Target Primary Indication->Comparator Primary Indication
+986117,Ketotifen,500000301,OMOP Acute Liver Failure 1,0,21001283,Allergic Conjunctivitis,967562,loteprednol etabonate,Target Primary Indication->Comparator Primary Indication
+987245,Lactulose,500000301,OMOP Acute Liver Failure 1,0,21002114,Constipation,986417,POLYETHYLENE GLYCOL 3350,Target Primary Indication->Comparator Primary Indication
+990760,Lipase,500000301,OMOP Acute Liver Failure 1,0,21002227,Pancreatic Insufficiency,1707164,Metronidazole,Target Any Indication->Comparator Any Indication
+767410,lithium citrate,500000301,OMOP Acute Liver Failure 1,0,21000953,Manic Bipolar Disorder,766814,quetiapine,Target Primary Indication->Comparator Any Indication
+904356,Methenamine,500000301,OMOP Acute Liver Failure 1,0,21002320,Urinary Tract Infections,1705674,Trimethoprim,Target Primary Indication->Comparator Primary Indication
+907879,Miconazole,500000301,OMOP Acute Liver Failure 1,0,21000322,Vulvovaginal Candidiasis,1754994,Fluconazole,Target Primary Indication->Comparator Primary Indication
+717136,Neostigmine,500000301,OMOP Acute Liver Failure 1,0,21003253,Urinary Retention,914335,Atropine,Target Any Indication->Comparator Any Indication
+918906,oxybutynin,500000301,OMOP Acute Liver Failure 1,0,21003255,Urinary Urge Incontinence,916005,Solifenacin,Target Primary Indication->Comparator Primary Indication
+1727443,Paromomycin,500000301,OMOP Acute Liver Failure 1,0,21000014,Acute Intestinal Amebiasis,915981,Neomycin,Target Any Indication->Comparator Any Indication
+1729720,Penicillin V,500000301,OMOP Acute Liver Failure 1,0,21001750,Pharyngitis,1768849,Cefaclor,Target Primary Indication->Comparator Primary Indication
+735340,Phentermine,500000301,OMOP Acute Liver Failure 1,0,21000789,Obesity,739363,sibutramine,Target Primary Indication->Comparator Primary Indication
+1335539,Phentolamine,500000301,OMOP Acute Liver Failure 1,0,21001633,Cerebral Ischemia,730729,Pentobarbital,Target Primary Indication->Comparator Any Indication
+751347,Primidone,500000301,OMOP Acute Liver Failure 1,0,21001092,Tonic-Clonic Epilepsy,750146,Ethotoin,Target Primary Indication->Comparator Primary Indication
+953391,Propantheline,500000301,OMOP Acute Liver Failure 1,0,21002035,Peptic Ulcer,939506,Sodium Bicarbonate,Target Primary Indication->Comparator Any Indication
+1137529,salmeterol,500000301,OMOP Acute Liver Failure 1,0,21001866,Bronchial Asthma,1551099,Prednisone,Target Primary Indication->Comparator Primary Indication
+965748,Scopolamine,500000301,OMOP Acute Liver Failure 1,0,21003375,Motion Sickness,1153013,Promethazine,Target Primary Indication->Comparator Any Indication
+1580747,sitagliptin,500000301,OMOP Acute Liver Failure 1,0,21000594,Type 2 Diabetes Mellitus,1525215,pioglitazone,Target Primary Indication->Comparator Primary Indication
+990499,"Sodium Phosphate, Monobasic",500000301,OMOP Acute Liver Failure 1,0,21002114,Constipation,987245,Lactulose,Target Primary Indication->Comparator Primary Indication
+1036228,Sucralfate,500000301,OMOP Acute Liver Failure 1,0,21002024,Duodenal Ulcer,1713332,Amoxicillin,Target Primary Indication->Comparator Any Indication
+1037005,Tetrahydrocannabinol,500000301,OMOP Acute Liver Failure 1,0,21000160,Anorexia from HIV,1300978,Megestrol,Target Primary Indication->Comparator Any Indication
+1702559,Tinidazole,500000301,OMOP Acute Liver Failure 1,0,21000398,Trichomoniasis,1707164,Metronidazole,Target Primary Indication->Comparator Primary Indication
+1529331,Acarbose,500000401,OMOP Acute Renal Failure 1,0,21000594,Type 2 Diabetes Mellitus,1503297,Metformin,Target Primary Indication->Comparator Primary Indication
+1309204,Adenosine,500000401,OMOP Acute Renal Failure 1,0,21001538,Paroxysmal Supraventricular Tachycardia,1135766,Phenylephrine,Target Primary Indication->Comparator Any Indication
+1103552,almotriptan,500000401,OMOP Acute Renal Failure 1,0,21001116,Migraine,1125315,Acetaminophen,Target Primary Indication->Comparator Any Indication
+919204,Amylases,500000401,OMOP Acute Renal Failure 1,0,21002227,Pancreatic Insufficiency,1707164,Metronidazole,Target Any Indication->Comparator Any Indication
+917006,Benzocaine,500000401,OMOP Acute Renal Failure 1,0,21001752,Sore Throat,1192710,Chlorpheniramine,Target Primary Indication->Comparator Primary Indication
+1136601,benzonatate,500000401,OMOP Acute Renal Failure 1,0,21003205,Cough,1163944,Guaifenesin,Target Primary Indication->Comparator Primary Indication
+1139179,bromfenac,500000401,OMOP Acute Renal Failure 1,0,21001357,Postoperative Ocular Pain,1125315,Acetaminophen,Target Any Indication->Comparator Any Indication
+1390051,Chlorambucil,500000401,OMOP Acute Renal Failure 1,0,21000483,Chronic Lymphoid Leukemia,1551099,Prednisone,Target Primary Indication->Comparator Any Indication
+790253,Chlorazepate,500000401,OMOP Acute Renal Failure 1,0,21000967,Anxiety,708298,Midazolam,Target Primary Indication->Comparator Primary Indication
+800878,Clozapine,500000401,OMOP Acute Renal Failure 1,0,21013819,Treatment-Resistant Schizophrenia,700299,Thioridazine,Target Primary Indication->Comparator Primary Indication
+19008009,Cosyntropin,500000401,OMOP Acute Renal Failure 1,0,21000636,Acute Adrenocortical Insufficiency,1541079,Corticotropin,Target Any Indication->Comparator Any Indication
+1311409,Dacarbazine,500000401,OMOP Acute Renal Failure 1,0,21000471,Hodgkin's Lymphoma,19008264,Vinblastine,Target Primary Indication->Comparator Primary Indication
+1304643,darbepoetin alfa,500000401,OMOP Acute Renal Failure 1,0,21000808,Anemia due to Renal Failure,1514412,Nandrolone,Target Primary Indication->Comparator Primary Indication
+916230,darifenacin,500000401,OMOP Acute Renal Failure 1,0,21003255,Urinary Urge Incontinence,918906,oxybutynin,Target Primary Indication->Comparator Primary Indication
+1756831,darunavir,500000401,OMOP Acute Renal Failure 1,0,21000157,HIV Infection,1704183,Lamivudine,Target Primary Indication->Comparator Primary Indication
+924724,Dicyclomine,500000401,OMOP Acute Renal Failure 1,0,21002116,Irritable Bowel Syndrome,1101703,homatropine,Target Primary Indication->Comparator Any Indication
+735850,Disulfiram,500000401,OMOP Acute Renal Failure 1,0,21000996,Alcoholism,19043959,acamprosate,Target Primary Indication->Comparator Primary Indication
+1189697,eletriptan,500000401,OMOP Acute Renal Failure 1,0,21001116,Migraine,1125315,Acetaminophen,Target Primary Indication->Comparator Any Indication
+931973,Endopeptidases,500000401,OMOP Acute Renal Failure 1,0,21002227,Pancreatic Insufficiency,1707164,Metronidazole,Target Any Indication->Comparator Any Indication
+1711246,entecavir,500000401,OMOP Acute Renal Failure 1,0,21000192,Chronic Type B Viral Hepatitis,1729323,adefovir,Target Primary Indication->Comparator Primary Indication
+1145379,Ergotamine,500000401,OMOP Acute Renal Failure 1,0,21003157,Vascular Headache,1125315,Acetaminophen,Target Any Indication->Comparator Any Indication
+1396012,ferrous gluconate,500000401,OMOP Acute Renal Failure 1,0,21000803,Iron Deficiency Anemia,941258,Docusate,Target Primary Indication->Comparator Primary Indication
+954853,Flavoxate,500000401,OMOP Acute Renal Failure 1,0,21003251,Dysuria,933724,Phenazopyridine,Target Primary Indication->Comparator Primary Indication
+1356461,Flutamide,500000401,OMOP Acute Renal Failure 1,0,21000539,Advanced Prostatic Carcinoma,1351541,Leuprolide,Target Primary Indication->Comparator Primary Indication
+1189458,frovatriptan,500000401,OMOP Acute Renal Failure 1,0,21001116,Migraine,1125315,Acetaminophen,Target Primary Indication->Comparator Any Indication
+1789276,gatifloxacin,500000401,OMOP Acute Renal Failure 1,0,21002274,E. Coli Pyelonephritis,1717963,ertapenem,Target Primary Indication->Comparator Any Indication
+1763779,Griseofulvin,500000401,OMOP Acute Renal Failure 1,0,21000307,Tinea Barbae,902950,Tolnaftate,Target Primary Indication->Comparator Any Indication
+923672,Hyoscyamine,500000401,OMOP Acute Renal Failure 1,0,21003251,Dysuria,954853,Flavoxate,Target Primary Indication->Comparator Primary Indication
+778268,Imipramine,500000401,OMOP Acute Renal Failure 1,0,21003257,Nocturnal Enuresis,1517070,desmopressin,Target Primary Indication->Comparator Primary Indication
+937368,infliximab,500000401,OMOP Acute Renal Failure 1,0,21002805,Rheumatoid Arthritis,1305058,Methotrexate,Target Primary Indication->Comparator Primary Indication
+985708,Ketoconazole,500000401,OMOP Acute Renal Failure 1,0,21000315,Tinea Corporis,958396,butenafine,Target Primary Indication->Comparator Primary Indication
+986117,Ketotifen,500000401,OMOP Acute Renal Failure 1,0,21001283,Allergic Conjunctivitis,967562,loteprednol etabonate,Target Primary Indication->Comparator Primary Indication
+987245,Lactulose,500000401,OMOP Acute Renal Failure 1,0,21002114,Constipation,986417,POLYETHYLENE GLYCOL 3350,Target Primary Indication->Comparator Primary Indication
+990760,Lipase,500000401,OMOP Acute Renal Failure 1,0,21002227,Pancreatic Insufficiency,1707164,Metronidazole,Target Any Indication->Comparator Any Indication
+1107830,Loratadine,500000401,OMOP Acute Renal Failure 1,0,21001770,Allergic Rhinitis,1149380,fluticasone,Target Primary Indication->Comparator Primary Indication
+1794280,Mebendazole,500000401,OMOP Acute Renal Failure 1,0,21000387,Enterobiasis,1759270,Pyrantel,Target Primary Indication->Comparator Primary Indication
+780369,metaxalone,500000401,OMOP Acute Renal Failure 1,0,21002855,Muscle Spasm,1125315,Acetaminophen,Target Primary Indication->Comparator Any Indication
+904356,Methenamine,500000401,OMOP Acute Renal Failure 1,0,21002320,Urinary Tract Infections,1705674,Trimethoprim,Target Primary Indication->Comparator Primary Indication
+704943,Methocarbamol,500000401,OMOP Acute Renal Failure 1,0,21002856,Muscle Spasm with Pain,1201620,Codeine,Target Primary Indication->Comparator Any Indication
+907879,Miconazole,500000401,OMOP Acute Renal Failure 1,0,21000322,Vulvovaginal Candidiasis,1754994,Fluconazole,Target Primary Indication->Comparator Primary Indication
+1715472,Nelfinavir,500000401,OMOP Acute Renal Failure 1,0,21000157,HIV Infection,1704183,Lamivudine,Target Primary Indication->Comparator Primary Indication
+717136,Neostigmine,500000401,OMOP Acute Renal Failure 1,0,21003253,Urinary Retention,914335,Atropine,Target Any Indication->Comparator Any Indication
+721724,Nortriptyline,500000401,OMOP Acute Renal Failure 1,0,21001022,Depression,750982,Bupropion,Target Primary Indication->Comparator Primary Indication
+741530,orlistat,500000401,OMOP Acute Renal Failure 1,0,21000789,Obesity,735340,Phentermine,Target Primary Indication->Comparator Primary Indication
+1727443,Paromomycin,500000401,OMOP Acute Renal Failure 1,0,21000014,Acute Intestinal Amebiasis,915981,Neomycin,Target Any Indication->Comparator Any Indication
+1729720,Penicillin V,500000401,OMOP Acute Renal Failure 1,0,21001750,Pharyngitis,1768849,Cefaclor,Target Primary Indication->Comparator Primary Indication
+735340,Phentermine,500000401,OMOP Acute Renal Failure 1,0,21000789,Obesity,739363,sibutramine,Target Primary Indication->Comparator Primary Indication
+1335539,Phentolamine,500000401,OMOP Acute Renal Failure 1,0,21001633,Cerebral Ischemia,730729,Pentobarbital,Target Primary Indication->Comparator Any Indication
+951279,Prilocaine,500000401,OMOP Acute Renal Failure 1,0,21011419,Regional Anesthesia for Postoperative Pain,1154029,Fentanyl,Target Primary Indication->Comparator Any Indication
+751347,Primidone,500000401,OMOP Acute Renal Failure 1,0,21001092,Tonic-Clonic Epilepsy,750146,Ethotoin,Target Primary Indication->Comparator Primary Indication
+752061,Prochlorperazine,500000401,OMOP Acute Renal Failure 1,0,21003217,Nausea and Vomiting,942799,trimethobenzamide,Target Primary Indication->Comparator Primary Indication
+781182,ramelteon,500000401,OMOP Acute Renal Failure 1,0,21013938,Sleep-Onset Insomnia,720727,zaleplon,Target Primary Indication->Comparator Primary Indication
+1154077,rizatriptan,500000401,OMOP Acute Renal Failure 1,0,21001116,Migraine,1125315,Acetaminophen,Target Primary Indication->Comparator Any Indication
+965748,Scopolamine,500000401,OMOP Acute Renal Failure 1,0,21003375,Motion Sickness,1153013,Promethazine,Target Primary Indication->Comparator Any Indication
+966991,Simethicone,500000401,OMOP Acute Renal Failure 1,0,21002081,Hiatal Hernia with Reflux Esophagitis,908464,magnesium carbonate,Target Primary Indication->Comparator Primary Indication
+990499,"Sodium Phosphate, Monobasic",500000401,OMOP Acute Renal Failure 1,0,21002114,Constipation,987245,Lactulose,Target Primary Indication->Comparator Primary Indication
+836715,Temazepam,500000401,OMOP Acute Renal Failure 1,0,21003063,Insomnia,757352,Eszopiclone,Target Primary Indication->Comparator Primary Indication
+1037005,Tetrahydrocannabinol,500000401,OMOP Acute Renal Failure 1,0,21000160,Anorexia from HIV,1300978,Megestrol,Target Primary Indication->Comparator Any Indication
+1837289,Thiabendazole,500000401,OMOP Acute Renal Failure 1,0,21000383,Cutaneous Larva Migrans,1506270,Methylprednisolone,Target Any Indication->Comparator Any Indication
+700465,Thiothixene,500000401,OMOP Acute Renal Failure 1,0,21000948,Schizophrenia,735979,Risperidone,Target Primary Indication->Comparator Primary Indication
+1702559,Tinidazole,500000401,OMOP Acute Renal Failure 1,0,21000398,Trichomoniasis,1707164,Metronidazole,Target Primary Indication->Comparator Primary Indication
+906914,Urea,500000401,OMOP Acute Renal Failure 1,0,21003118,Skin Rash,920458,Betamethasone,Target Primary Indication->Comparator Primary Indication
+19008339,Vitamin A,500000401,OMOP Acute Renal Failure 1,0,21000683,Vitamin Deficiency,19059817,Pyridoxal,Target Primary Indication->Comparator Primary Indication
+1111706,zafirlukast,500000401,OMOP Acute Renal Failure 1,0,21001866,Bronchial Asthma,1137529,salmeterol,Target Primary Indication->Comparator Primary Indication
+1529331,Acarbose,500000801,OMOP Acute myocardial Infarction  1,0,21000594,Type 2 Diabetes Mellitus,1503297,Metformin,Target Primary Indication->Comparator Primary Indication
+929435,Acetazolamide,500000801,OMOP Acute myocardial Infarction  1,0,21001206,Narrow Angle Glaucoma,956874,Furosemide,Target Any Indication->Comparator Any Indication
+919204,Amylases,500000801,OMOP Acute myocardial Infarction  1,0,21002227,Pancreatic Insufficiency,1707164,Metronidazole,Target Any Indication->Comparator Any Indication
+1136601,benzonatate,500000801,OMOP Acute myocardial Infarction  1,0,21003205,Cough,1163944,Guaifenesin,Target Primary Indication->Comparator Primary Indication
+1139179,bromfenac,500000801,OMOP Acute myocardial Infarction  1,0,21001357,Postoperative Ocular Pain,1125315,Acetaminophen,Target Any Indication->Comparator Any Indication
+1390051,Chlorambucil,500000801,OMOP Acute myocardial Infarction  1,0,21000483,Chronic Lymphoid Leukemia,1551099,Prednisone,Target Primary Indication->Comparator Any Indication
+790253,Chlorazepate,500000801,OMOP Acute myocardial Infarction  1,0,21000967,Anxiety,708298,Midazolam,Target Primary Indication->Comparator Primary Indication
+992590,Chlorothiazide,500000801,OMOP Acute myocardial Infarction  1,0,21001583,Pulmonary Edema due to Chronic Heart Failure,956874,Furosemide,Target Primary Indication->Comparator Primary Indication
+997881,Clindamycin,500000801,OMOP Acute myocardial Infarction  1,0,21002731,Acne Vulgaris,1738521,Doxycycline,Target Primary Indication->Comparator Primary Indication
+19008009,Cosyntropin,500000801,OMOP Acute myocardial Infarction  1,0,21000636,Acute Adrenocortical Insufficiency,1541079,Corticotropin,Target Any Indication->Comparator Any Indication
+916230,darifenacin,500000801,OMOP Acute myocardial Infarction  1,0,21003255,Urinary Urge Incontinence,918906,oxybutynin,Target Primary Indication->Comparator Primary Indication
+924724,Dicyclomine,500000801,OMOP Acute myocardial Infarction  1,0,21002116,Irritable Bowel Syndrome,1101703,homatropine,Target Primary Indication->Comparator Any Indication
+1724869,Didanosine,500000801,OMOP Acute myocardial Infarction  1,0,21000157,HIV Infection,1710281,tenofovir disoproxil,Target Primary Indication->Comparator Primary Indication
+739323,Droperidol,500000801,OMOP Acute myocardial Infarction  1,0,21003079,Pain,1125315,Acetaminophen,Target Primary Indication->Comparator Primary Indication
+931973,Endopeptidases,500000801,OMOP Acute myocardial Infarction  1,0,21002227,Pancreatic Insufficiency,1707164,Metronidazole,Target Any Indication->Comparator Any Indication
+1711246,entecavir,500000801,OMOP Acute myocardial Infarction  1,0,21000192,Chronic Type B Viral Hepatitis,1729323,adefovir,Target Primary Indication->Comparator Primary Indication
+1396012,ferrous gluconate,500000801,OMOP Acute myocardial Infarction  1,0,21000803,Iron Deficiency Anemia,941258,Docusate,Target Primary Indication->Comparator Primary Indication
+954853,Flavoxate,500000801,OMOP Acute myocardial Infarction  1,0,21003251,Dysuria,933724,Phenazopyridine,Target Primary Indication->Comparator Primary Indication
+1356461,Flutamide,500000801,OMOP Acute myocardial Infarction  1,0,21000539,Advanced Prostatic Carcinoma,1351541,Leuprolide,Target Primary Indication->Comparator Primary Indication
+1149380,fluticasone,500000801,OMOP Acute myocardial Infarction  1,0,21001770,Allergic Rhinitis,1154332,Pseudoephedrine,Target Primary Indication->Comparator Primary Indication
+1789276,gatifloxacin,500000801,OMOP Acute myocardial Infarction  1,0,21002274,E. Coli Pyelonephritis,1717963,ertapenem,Target Primary Indication->Comparator Any Indication
+923672,Hyoscyamine,500000801,OMOP Acute myocardial Infarction  1,0,21003251,Dysuria,954853,Flavoxate,Target Primary Indication->Comparator Primary Indication
+985708,Ketoconazole,500000801,OMOP Acute myocardial Infarction  1,0,21000315,Tinea Corporis,958396,butenafine,Target Primary Indication->Comparator Primary Indication
+986117,Ketotifen,500000801,OMOP Acute myocardial Infarction  1,0,21001283,Allergic Conjunctivitis,967562,loteprednol etabonate,Target Primary Indication->Comparator Primary Indication
+987245,Lactulose,500000801,OMOP Acute myocardial Infarction  1,0,21002114,Constipation,986417,POLYETHYLENE GLYCOL 3350,Target Primary Indication->Comparator Primary Indication
+990760,Lipase,500000801,OMOP Acute myocardial Infarction  1,0,21002227,Pancreatic Insufficiency,1707164,Metronidazole,Target Any Indication->Comparator Any Indication
+767410,lithium citrate,500000801,OMOP Acute myocardial Infarction  1,0,21000953,Manic Bipolar Disorder,766814,quetiapine,Target Primary Indication->Comparator Any Indication
+1107830,Loratadine,500000801,OMOP Acute myocardial Infarction  1,0,21001770,Allergic Rhinitis,1149380,fluticasone,Target Primary Indication->Comparator Primary Indication
+1794280,Mebendazole,500000801,OMOP Acute myocardial Infarction  1,0,21000387,Enterobiasis,1759270,Pyrantel,Target Primary Indication->Comparator Primary Indication
+780369,metaxalone,500000801,OMOP Acute myocardial Infarction  1,0,21002855,Muscle Spasm,1125315,Acetaminophen,Target Primary Indication->Comparator Any Indication
+904356,Methenamine,500000801,OMOP Acute myocardial Infarction  1,0,21002320,Urinary Tract Infections,1705674,Trimethoprim,Target Primary Indication->Comparator Primary Indication
+1504620,Methimazole,500000801,OMOP Acute myocardial Infarction  1,0,21000580,Hyperthyroidism,1554072,Propylthiouracil,Target Primary Indication->Comparator Primary Indication
+704943,Methocarbamol,500000801,OMOP Acute myocardial Infarction  1,0,21002856,Muscle Spasm with Pain,1201620,Codeine,Target Primary Indication->Comparator Any Indication
+907879,Miconazole,500000801,OMOP Acute myocardial Infarction  1,0,21000322,Vulvovaginal Candidiasis,1754994,Fluconazole,Target Primary Indication->Comparator Primary Indication
+1715472,Nelfinavir,500000801,OMOP Acute myocardial Infarction  1,0,21000157,HIV Infection,1704183,Lamivudine,Target Primary Indication->Comparator Primary Indication
+1769389,Nevirapine,500000801,OMOP Acute myocardial Infarction  1,0,21000157,HIV Infection,1704183,Lamivudine,Target Primary Indication->Comparator Primary Indication
+918906,oxybutynin,500000801,OMOP Acute myocardial Infarction  1,0,21003255,Urinary Urge Incontinence,916005,Solifenacin,Target Primary Indication->Comparator Primary Indication
+1727443,Paromomycin,500000801,OMOP Acute myocardial Infarction  1,0,21000014,Acute Intestinal Amebiasis,915981,Neomycin,Target Any Indication->Comparator Any Indication
+727835,Pemoline,500000801,OMOP Acute myocardial Infarction  1,0,21001028,Attention-Deficit Hyperactivity Disorder,742185,atomoxetine,Target Primary Indication->Comparator Primary Indication
+19028050,Penicillamine,500000801,OMOP Acute myocardial Infarction  1,0,21002805,Rheumatoid Arthritis,1305058,Methotrexate,Target Primary Indication->Comparator Primary Indication
+1729720,Penicillin V,500000801,OMOP Acute myocardial Infarction  1,0,21001750,Pharyngitis,1768849,Cefaclor,Target Primary Indication->Comparator Primary Indication
+1704139,posaconazole,500000801,OMOP Acute myocardial Infarction  1,0,21013678,Prevention of Invasive Pulmonary Aspergillosis,1000632,Clotrimazole,Target Any Indication->Comparator Any Indication
+951279,Prilocaine,500000801,OMOP Acute myocardial Infarction  1,0,21011419,Regional Anesthesia for Postoperative Pain,1154029,Fentanyl,Target Primary Indication->Comparator Any Indication
+751347,Primidone,500000801,OMOP Acute myocardial Infarction  1,0,21001092,Tonic-Clonic Epilepsy,750146,Ethotoin,Target Primary Indication->Comparator Primary Indication
+752061,Prochlorperazine,500000801,OMOP Acute myocardial Infarction  1,0,21003217,Nausea and Vomiting,942799,trimethobenzamide,Target Primary Indication->Comparator Primary Indication
+953391,Propantheline,500000801,OMOP Acute myocardial Infarction  1,0,21002035,Peptic Ulcer,939506,Sodium Bicarbonate,Target Primary Indication->Comparator Any Indication
+781182,ramelteon,500000801,OMOP Acute myocardial Infarction  1,0,21013938,Sleep-Onset Insomnia,720727,zaleplon,Target Primary Indication->Comparator Primary Indication
+1137529,salmeterol,500000801,OMOP Acute myocardial Infarction  1,0,21001866,Bronchial Asthma,1551099,Prednisone,Target Primary Indication->Comparator Primary Indication
+965748,Scopolamine,500000801,OMOP Acute myocardial Infarction  1,0,21003375,Motion Sickness,1153013,Promethazine,Target Primary Indication->Comparator Any Indication
+966991,Simethicone,500000801,OMOP Acute myocardial Infarction  1,0,21002081,Hiatal Hernia with Reflux Esophagitis,908464,magnesium carbonate,Target Primary Indication->Comparator Primary Indication
+1580747,sitagliptin,500000801,OMOP Acute myocardial Infarction  1,0,21000594,Type 2 Diabetes Mellitus,1525215,pioglitazone,Target Primary Indication->Comparator Primary Indication
+990499,"Sodium Phosphate, Monobasic",500000801,OMOP Acute myocardial Infarction  1,0,21002114,Constipation,987245,Lactulose,Target Primary Indication->Comparator Primary Indication
+1781406,Stavudine,500000801,OMOP Acute myocardial Infarction  1,0,21000157,HIV Infection,1710281,tenofovir disoproxil,Target Primary Indication->Comparator Primary Indication
+1036228,Sucralfate,500000801,OMOP Acute myocardial Infarction  1,0,21002024,Duodenal Ulcer,1713332,Amoxicillin,Target Primary Indication->Comparator Any Indication
+964339,Sulfasalazine,500000801,OMOP Acute myocardial Infarction  1,0,21002805,Rheumatoid Arthritis,1305058,Methotrexate,Target Primary Indication->Comparator Primary Indication
+1836503,Sulfisoxazole,500000801,OMOP Acute myocardial Infarction  1,0,21001385,Acute Otitis Media Infection,1713332,Amoxicillin,Target Primary Indication->Comparator Primary Indication
+836715,Temazepam,500000801,OMOP Acute myocardial Infarction  1,0,21003063,Insomnia,757352,Eszopiclone,Target Primary Indication->Comparator Primary Indication
+1741309,terbinafine,500000801,OMOP Acute myocardial Infarction  1,0,21000309,Onychomycosis due to Dermatophyte,950098,ciclopirox,Target Primary Indication->Comparator Primary Indication
+1037005,Tetrahydrocannabinol,500000801,OMOP Acute myocardial Infarction  1,0,21000160,Anorexia from HIV,1300978,Megestrol,Target Primary Indication->Comparator Any Indication
+1837289,Thiabendazole,500000801,OMOP Acute myocardial Infarction  1,0,21000383,Cutaneous Larva Migrans,1506270,Methylprednisolone,Target Any Indication->Comparator Any Indication
+700465,Thiothixene,500000801,OMOP Acute myocardial Infarction  1,0,21000948,Schizophrenia,735979,Risperidone,Target Primary Indication->Comparator Primary Indication
+1702559,Tinidazole,500000801,OMOP Acute myocardial Infarction  1,0,21000398,Trichomoniasis,1707164,Metronidazole,Target Primary Indication->Comparator Primary Indication
+1736999,tipranavir,500000801,OMOP Acute myocardial Infarction  1,0,21000157,HIV Infection,1704183,Lamivudine,Target Primary Indication->Comparator Primary Indication
+906914,Urea,500000801,OMOP Acute myocardial Infarction  1,0,21003118,Skin Rash,920458,Betamethasone,Target Primary Indication->Comparator Primary Indication
+19008339,Vitamin A,500000801,OMOP Acute myocardial Infarction  1,0,21000683,Vitamin Deficiency,19059817,Pyridoxal,Target Primary Indication->Comparator Primary Indication
+1111706,zafirlukast,500000801,OMOP Acute myocardial Infarction  1,0,21001866,Bronchial Asthma,1137529,salmeterol,Target Primary Indication->Comparator Primary Indication
+1736971,abacavir,500001003,HOI Upper GI #3,0,21000157,HIV Infection,1710281,tenofovir disoproxil,Target Primary Indication->Comparator Primary Indication
+1529331,Acarbose,500001003,HOI Upper GI #3,0,21000594,Type 2 Diabetes Mellitus,1503297,Metformin,Target Primary Indication->Comparator Primary Indication
+1309204,Adenosine,500001003,HOI Upper GI #3,0,21001538,Paroxysmal Supraventricular Tachycardia,1135766,Phenylephrine,Target Primary Indication->Comparator Any Indication
+919204,Amylases,500001003,HOI Upper GI #3,0,21002227,Pancreatic Insufficiency,1707164,Metronidazole,Target Any Indication->Comparator Any Indication
+917006,Benzocaine,500001003,HOI Upper GI #3,0,21001752,Sore Throat,1192710,Chlorpheniramine,Target Primary Indication->Comparator Primary Indication
+1136601,benzonatate,500001003,HOI Upper GI #3,0,21003205,Cough,1163944,Guaifenesin,Target Primary Indication->Comparator Primary Indication
+1139179,bromfenac,500001003,HOI Upper GI #3,0,21001357,Postoperative Ocular Pain,1125315,Acetaminophen,Target Any Indication->Comparator Any Indication
+1390051,Chlorambucil,500001003,HOI Upper GI #3,0,21000483,Chronic Lymphoid Leukemia,1551099,Prednisone,Target Primary Indication->Comparator Any Indication
+790253,Chlorazepate,500001003,HOI Upper GI #3,0,21000967,Anxiety,708298,Midazolam,Target Primary Indication->Comparator Primary Indication
+19008009,Cosyntropin,500001003,HOI Upper GI #3,0,21000636,Acute Adrenocortical Insufficiency,1541079,Corticotropin,Target Any Indication->Comparator Any Indication
+1311409,Dacarbazine,500001003,HOI Upper GI #3,0,21000471,Hodgkin's Lymphoma,19008264,Vinblastine,Target Primary Indication->Comparator Primary Indication
+916230,darifenacin,500001003,HOI Upper GI #3,0,21003255,Urinary Urge Incontinence,918906,oxybutynin,Target Primary Indication->Comparator Primary Indication
+924724,Dicyclomine,500001003,HOI Upper GI #3,0,21002116,Irritable Bowel Syndrome,1101703,homatropine,Target Primary Indication->Comparator Any Indication
+735850,Disulfiram,500001003,HOI Upper GI #3,0,21000996,Alcoholism,19043959,acamprosate,Target Primary Indication->Comparator Primary Indication
+739323,Droperidol,500001003,HOI Upper GI #3,0,21003079,Pain,1125315,Acetaminophen,Target Primary Indication->Comparator Primary Indication
+931973,Endopeptidases,500001003,HOI Upper GI #3,0,21002227,Pancreatic Insufficiency,1707164,Metronidazole,Target Any Indication->Comparator Any Indication
+1711246,entecavir,500001003,HOI Upper GI #3,0,21000192,Chronic Type B Viral Hepatitis,1729323,adefovir,Target Primary Indication->Comparator Primary Indication
+1301125,Epoetin Alfa,500001003,HOI Upper GI #3,0,21000808,Anemia due to Renal Failure,1514412,Nandrolone,Target Primary Indication->Comparator Primary Indication
+1145379,Ergotamine,500001003,HOI Upper GI #3,0,21003157,Vascular Headache,1125315,Acetaminophen,Target Any Indication->Comparator Any Indication
+1396012,ferrous gluconate,500001003,HOI Upper GI #3,0,21000803,Iron Deficiency Anemia,941258,Docusate,Target Primary Indication->Comparator Primary Indication
+1149380,fluticasone,500001003,HOI Upper GI #3,0,21001770,Allergic Rhinitis,1154332,Pseudoephedrine,Target Primary Indication->Comparator Primary Indication
+1763779,Griseofulvin,500001003,HOI Upper GI #3,0,21000307,Tinea Barbae,902950,Tolnaftate,Target Primary Indication->Comparator Any Indication
+923672,Hyoscyamine,500001003,HOI Upper GI #3,0,21003251,Dysuria,954853,Flavoxate,Target Primary Indication->Comparator Primary Indication
+1703653,Itraconazole,500001003,HOI Upper GI #3,0,21000309,Onychomycosis due to Dermatophyte,1741309,terbinafine,Target Primary Indication->Comparator Primary Indication
+985708,Ketoconazole,500001003,HOI Upper GI #3,0,21000315,Tinea Corporis,958396,butenafine,Target Primary Indication->Comparator Primary Indication
+986117,Ketotifen,500001003,HOI Upper GI #3,0,21001283,Allergic Conjunctivitis,967562,loteprednol etabonate,Target Primary Indication->Comparator Primary Indication
+987245,Lactulose,500001003,HOI Upper GI #3,0,21002114,Constipation,986417,POLYETHYLENE GLYCOL 3350,Target Primary Indication->Comparator Primary Indication
+1704183,Lamivudine,500001003,HOI Upper GI #3,0,21000157,HIV Infection,1710281,tenofovir disoproxil,Target Primary Indication->Comparator Primary Indication
+990760,Lipase,500001003,HOI Upper GI #3,0,21002227,Pancreatic Insufficiency,1707164,Metronidazole,Target Any Indication->Comparator Any Indication
+767410,lithium citrate,500001003,HOI Upper GI #3,0,21000953,Manic Bipolar Disorder,766814,quetiapine,Target Primary Indication->Comparator Any Indication
+1107830,Loratadine,500001003,HOI Upper GI #3,0,21001770,Allergic Rhinitis,1149380,fluticasone,Target Primary Indication->Comparator Primary Indication
+1794280,Mebendazole,500001003,HOI Upper GI #3,0,21000387,Enterobiasis,1759270,Pyrantel,Target Primary Indication->Comparator Primary Indication
+780369,metaxalone,500001003,HOI Upper GI #3,0,21002855,Muscle Spasm,1125315,Acetaminophen,Target Primary Indication->Comparator Any Indication
+704943,Methocarbamol,500001003,HOI Upper GI #3,0,21002856,Muscle Spasm with Pain,1201620,Codeine,Target Primary Indication->Comparator Any Indication
+907879,Miconazole,500001003,HOI Upper GI #3,0,21000322,Vulvovaginal Candidiasis,1754994,Fluconazole,Target Primary Indication->Comparator Primary Indication
+1310756,moexipril,500001003,HOI Upper GI #3,0,21001432,Hypertension,1332418,Amlodipine,Target Primary Indication->Comparator Primary Indication
+717136,Neostigmine,500001003,HOI Upper GI #3,0,21003253,Urinary Retention,914335,Atropine,Target Any Indication->Comparator Any Indication
+1769389,Nevirapine,500001003,HOI Upper GI #3,0,21000157,HIV Infection,1704183,Lamivudine,Target Primary Indication->Comparator Primary Indication
+920293,Nitrofurantoin,500001003,HOI Upper GI #3,0,21002299,Enterobacter Cystitis,923081,Ofloxacin,Target Primary Indication->Comparator Any Indication
+741530,orlistat,500001003,HOI Upper GI #3,0,21000789,Obesity,735340,Phentermine,Target Primary Indication->Comparator Primary Indication
+918906,oxybutynin,500001003,HOI Upper GI #3,0,21003255,Urinary Urge Incontinence,916005,Solifenacin,Target Primary Indication->Comparator Primary Indication
+1727443,Paromomycin,500001003,HOI Upper GI #3,0,21000014,Acute Intestinal Amebiasis,915981,Neomycin,Target Any Indication->Comparator Any Indication
+727835,Pemoline,500001003,HOI Upper GI #3,0,21001028,Attention-Deficit Hyperactivity Disorder,742185,atomoxetine,Target Primary Indication->Comparator Primary Indication
+1729720,Penicillin V,500001003,HOI Upper GI #3,0,21001750,Pharyngitis,1768849,Cefaclor,Target Primary Indication->Comparator Primary Indication
+735340,Phentermine,500001003,HOI Upper GI #3,0,21000789,Obesity,739363,sibutramine,Target Primary Indication->Comparator Primary Indication
+1335539,Phentolamine,500001003,HOI Upper GI #3,0,21001633,Cerebral Ischemia,730729,Pentobarbital,Target Primary Indication->Comparator Any Indication
+1525215,pioglitazone,500001003,HOI Upper GI #3,0,21000594,Type 2 Diabetes Mellitus,1560171,Glipizide,Target Primary Indication->Comparator Primary Indication
+951279,Prilocaine,500001003,HOI Upper GI #3,0,21011419,Regional Anesthesia for Postoperative Pain,1154029,Fentanyl,Target Primary Indication->Comparator Any Indication
+752061,Prochlorperazine,500001003,HOI Upper GI #3,0,21003217,Nausea and Vomiting,942799,trimethobenzamide,Target Primary Indication->Comparator Primary Indication
+953391,Propantheline,500001003,HOI Upper GI #3,0,21002035,Peptic Ulcer,939506,Sodium Bicarbonate,Target Primary Indication->Comparator Any Indication
+781182,ramelteon,500001003,HOI Upper GI #3,0,21013938,Sleep-Onset Insomnia,720727,zaleplon,Target Primary Indication->Comparator Primary Indication
+1547504,rosiglitazone,500001003,HOI Upper GI #3,0,21000594,Type 2 Diabetes Mellitus,1560171,Glipizide,Target Primary Indication->Comparator Primary Indication
+1137529,salmeterol,500001003,HOI Upper GI #3,0,21001866,Bronchial Asthma,1551099,Prednisone,Target Primary Indication->Comparator Primary Indication
+965748,Scopolamine,500001003,HOI Upper GI #3,0,21003375,Motion Sickness,1153013,Promethazine,Target Primary Indication->Comparator Any Indication
+966991,Simethicone,500001003,HOI Upper GI #3,0,21002081,Hiatal Hernia with Reflux Esophagitis,908464,magnesium carbonate,Target Primary Indication->Comparator Primary Indication
+1580747,sitagliptin,500001003,HOI Upper GI #3,0,21000594,Type 2 Diabetes Mellitus,1525215,pioglitazone,Target Primary Indication->Comparator Primary Indication
+1781406,Stavudine,500001003,HOI Upper GI #3,0,21000157,HIV Infection,1710281,tenofovir disoproxil,Target Primary Indication->Comparator Primary Indication
+1036228,Sucralfate,500001003,HOI Upper GI #3,0,21002024,Duodenal Ulcer,1713332,Amoxicillin,Target Primary Indication->Comparator Any Indication
+836715,Temazepam,500001003,HOI Upper GI #3,0,21003063,Insomnia,757352,Eszopiclone,Target Primary Indication->Comparator Primary Indication
+1741309,terbinafine,500001003,HOI Upper GI #3,0,21000309,Onychomycosis due to Dermatophyte,950098,ciclopirox,Target Primary Indication->Comparator Primary Indication
+1037005,Tetrahydrocannabinol,500001003,HOI Upper GI #3,0,21000160,Anorexia from HIV,1300978,Megestrol,Target Primary Indication->Comparator Any Indication
+1837289,Thiabendazole,500001003,HOI Upper GI #3,0,21000383,Cutaneous Larva Migrans,1506270,Methylprednisolone,Target Any Indication->Comparator Any Indication
+700465,Thiothixene,500001003,HOI Upper GI #3,0,21000948,Schizophrenia,735979,Risperidone,Target Primary Indication->Comparator Primary Indication
+1702559,Tinidazole,500001003,HOI Upper GI #3,0,21000398,Trichomoniasis,1707164,Metronidazole,Target Primary Indication->Comparator Primary Indication
+906914,Urea,500001003,HOI Upper GI #3,0,21003118,Skin Rash,920458,Betamethasone,Target Primary Indication->Comparator Primary Indication
+19008339,Vitamin A,500001003,HOI Upper GI #3,0,21000683,Vitamin Deficiency,19059817,Pyridoxal,Target Primary Indication->Comparator Primary Indication
+1710612,Zidovudine,500001003,HOI Upper GI #3,0,21000157,HIV Infection,1710281,tenofovir disoproxil,Target Primary Indication->Comparator Primary Indication
+1736971,abacavir,500000301,OMOP Acute Liver Failure 1,1,21000157,HIV Infection,1710281,tenofovir disoproxil,Target Primary Indication->Comparator Primary Indication
+929435,Acetazolamide,500000301,OMOP Acute Liver Failure 1,1,21001206,Narrow Angle Glaucoma,956874,Furosemide,Target Any Indication->Comparator Any Indication
+19018154,alatrofloxacin,500000301,OMOP Acute Liver Failure 1,1,21001743,Acute Bacterial Sinusitis,1750500,Clarithromycin,Target Primary Indication->Comparator Primary Indication
+1167322,Allopurinol,500000301,OMOP Acute Liver Failure 1,1,21003276,Hyperuricemia,1151422,Probenecid,Target Primary Indication->Comparator Primary Indication
+1336825,bortezomib,500000301,OMOP Acute Liver Failure 1,1,21000480,Multiple Myeloma,19137042,Thalidomide,Target Primary Indication->Comparator Primary Indication
+1321636,bosentan,500000301,OMOP Acute Liver Failure 1,1,21001478,Pulmonary Hypertension,1354118,Epoprostenol,Target Primary Indication->Comparator Primary Indication
+1333357,Busulfan,500000301,OMOP Acute Liver Failure 1,1,21008923,Philadelphia Chromosome Positive Chronic Myelocytic Leukemia,1304107,imatinib,Target Primary Indication->Comparator Any Indication
+1340128,Captopril,500000301,OMOP Acute Liver Failure 1,1,21001432,Hypertension,1332418,Amlodipine,Target Primary Indication->Comparator Primary Indication
+740275,Carbamazepine,500000301,OMOP Acute Liver Failure 1,1,21001107,Mixed Epilepsy,766814,quetiapine,Target Any Indication->Comparator Any Indication
+1718054,Caspofungin,500000301,OMOP Acute Liver Failure 1,1,21004187,Candidal Septicemia,1754994,Fluconazole,Target Primary Indication->Comparator Any Indication
+1118084,celecoxib,500000301,OMOP Acute Liver Failure 1,1,21003079,Pain,1125315,Acetaminophen,Target Primary Indication->Comparator Primary Indication
+1797513,Ciprofloxacin,500000301,OMOP Acute Liver Failure 1,1,21002308,Bladder Infection,1713332,Amoxicillin,Target Any Indication->Comparator Any Indication
+800878,Clozapine,500000301,OMOP Acute Liver Failure 1,1,21013819,Treatment-Resistant Schizophrenia,700299,Thioridazine,Target Primary Indication->Comparator Primary Indication
+19010482,Cyclosporine,500000301,OMOP Acute Liver Failure 1,1,21002685,Severe Recalcitrant Psoriasis,929638,Acitretin,Target Primary Indication->Comparator Primary Indication
+1311409,Dacarbazine,500000301,OMOP Acute Liver Failure 1,1,21000471,Hodgkin's Lymphoma,19008264,Vinblastine,Target Primary Indication->Comparator Primary Indication
+1756831,darunavir,500000301,OMOP Acute Liver Failure 1,1,21000157,HIV Infection,1704183,Lamivudine,Target Primary Indication->Comparator Primary Indication
+1724869,Didanosine,500000301,OMOP Acute Liver Failure 1,1,21000157,HIV Infection,1710281,tenofovir disoproxil,Target Primary Indication->Comparator Primary Indication
+1328165,Diltiazem,500000301,OMOP Acute Liver Failure 1,1,21001432,Hypertension,974166,Hydrochlorothiazide,Target Primary Indication->Comparator Primary Indication
+735850,Disulfiram,500000301,OMOP Acute Liver Failure 1,1,21000996,Alcoholism,19043959,acamprosate,Target Primary Indication->Comparator Primary Indication
+1738135,efavirenz,500000301,OMOP Acute Liver Failure 1,1,21000157,HIV Infection,1704183,Lamivudine,Target Primary Indication->Comparator Primary Indication
+1342001,Enalaprilat,500000301,OMOP Acute Liver Failure 1,1,21001432,Hypertension,974166,Hydrochlorothiazide,Target Primary Indication->Comparator Primary Indication
+1746940,Erythromycin,500000301,OMOP Acute Liver Failure 1,1,21002731,Acne Vulgaris,1738521,Doxycycline,Target Primary Indication->Comparator Primary Indication
+1195492,Etodolac,500000301,OMOP Acute Liver Failure 1,1,21003079,Pain,1125315,Acetaminophen,Target Primary Indication->Comparator Primary Indication
+795661,felbamate,500000301,OMOP Acute Liver Failure 1,1,21001101,Simple-Partial Epilepsy,718122,oxcarbazepine,Target Primary Indication->Comparator Primary Indication
+1754994,Fluconazole,500000301,OMOP Acute Liver Failure 1,1,21000322,Vulvovaginal Candidiasis,941472,terconazole,Target Primary Indication->Comparator Primary Indication
+1356461,Flutamide,500000301,OMOP Acute Liver Failure 1,1,21000539,Advanced Prostatic Carcinoma,1351541,Leuprolide,Target Primary Indication->Comparator Primary Indication
+1314924,gemcitabine,500000301,OMOP Acute Liver Failure 1,1,21000516,Pancreatic Carcinoma,1325363,erlotinib,Target Primary Indication->Comparator Primary Indication
+1716721,gemifloxacin,500000301,OMOP Acute Liver Failure 1,1,21001819,Bacterial Pneumonia,1713332,Amoxicillin,Target Primary Indication->Comparator Any Indication
+1177480,Ibuprofen,500000301,OMOP Acute Liver Failure 1,1,21003079,Pain,1153013,Promethazine,Target Primary Indication->Comparator Primary Indication
+1304107,imatinib,500000301,OMOP Acute Liver Failure 1,1,21000488,Chronic Myelocytic Leukemia,1377141,hydroxyurea,Target Primary Indication->Comparator Any Indication
+1178663,Indomethacin,500000301,OMOP Acute Liver Failure 1,1,21000716,Gout,1101554,Colchicine,Target Primary Indication->Comparator Primary Indication
+937368,infliximab,500000301,OMOP Acute Liver Failure 1,1,21002805,Rheumatoid Arthritis,1305058,Methotrexate,Target Primary Indication->Comparator Primary Indication
+722424,Interferon beta-1a,500000301,OMOP Acute Liver Failure 1,1,21001078,Multiple Sclerosis,1506270,Methylprednisolone,Target Primary Indication->Comparator Any Indication
+1782521,isoniazid,500000301,OMOP Acute Liver Failure 1,1,21000038,Pulmonary Tuberculosis,1749301,Ethambutol,Target Primary Indication->Comparator Any Indication
+1703653,Itraconazole,500000301,OMOP Acute Liver Failure 1,1,21000309,Onychomycosis due to Dermatophyte,1741309,terbinafine,Target Primary Indication->Comparator Primary Indication
+1136980,Ketorolac,500000301,OMOP Acute Liver Failure 1,1,21003084,Severe Pain,19005061,ziconotide,Target Primary Indication->Comparator Primary Indication
+1704183,Lamivudine,500000301,OMOP Acute Liver Failure 1,1,21000157,HIV Infection,1710281,tenofovir disoproxil,Target Primary Indication->Comparator Primary Indication
+705103,lamotrigine,500000301,OMOP Acute Liver Failure 1,1,21013430,Bipolar Disorder in Remission,766814,quetiapine,Target Primary Indication->Comparator Any Indication
+1742253,Levofloxacin,500000301,OMOP Acute Liver Failure 1,1,21002272,Pyelonephritis,1713332,Amoxicillin,Target Any Indication->Comparator Any Indication
+1308216,Lisinopril,500000301,OMOP Acute Liver Failure 1,1,21001432,Hypertension,1332418,Amlodipine,Target Primary Indication->Comparator Primary Indication
+1504620,Methimazole,500000301,OMOP Acute Liver Failure 1,1,21000580,Hyperthyroidism,1554072,Propylthiouracil,Target Primary Indication->Comparator Primary Indication
+1305058,Methotrexate,500000301,OMOP Acute Liver Failure 1,1,21002805,Rheumatoid Arthritis,1777087,Hydroxychloroquine,Target Primary Indication->Comparator Primary Indication
+1305447,Methyldopa,500000301,OMOP Acute Liver Failure 1,1,21001432,Hypertension,1308216,Lisinopril,Target Primary Indication->Comparator Primary Indication
+1310756,moexipril,500000301,OMOP Acute Liver Failure 1,1,21001432,Hypertension,1332418,Amlodipine,Target Primary Indication->Comparator Primary Indication
+1115008,Naproxen,500000301,OMOP Acute Liver Failure 1,1,21003079,Pain,1125315,Acetaminophen,Target Primary Indication->Comparator Primary Indication
+714684,nefazodone,500000301,OMOP Acute Liver Failure 1,1,21001022,Depression,750982,Bupropion,Target Primary Indication->Comparator Primary Indication
+1769389,Nevirapine,500000301,OMOP Acute Liver Failure 1,1,21000157,HIV Infection,1704183,Lamivudine,Target Primary Indication->Comparator Primary Indication
+1517824,Niacin,500000301,OMOP Acute Liver Failure 1,1,21000707,Hyperlipidemia,1551803,Fenofibrate,Target Primary Indication->Comparator Primary Indication
+1318853,Nifedipine,500000301,OMOP Acute Liver Failure 1,1,21001432,Hypertension,974166,Hydrochlorothiazide,Target Primary Indication->Comparator Primary Indication
+920293,Nitrofurantoin,500000301,OMOP Acute Liver Failure 1,1,21002299,Enterobacter Cystitis,923081,Ofloxacin,Target Primary Indication->Comparator Any Indication
+1721543,Norfloxacin,500000301,OMOP Acute Liver Failure 1,1,21002320,Urinary Tract Infections,1705674,Trimethoprim,Target Primary Indication->Comparator Primary Indication
+721724,Nortriptyline,500000301,OMOP Acute Liver Failure 1,1,21001022,Depression,750982,Bupropion,Target Primary Indication->Comparator Primary Indication
+923081,Ofloxacin,500000301,OMOP Acute Liver Failure 1,1,21001368,Otitis Externa,948582,Polymyxin B,Target Primary Indication->Comparator Primary Indication
+741530,orlistat,500000301,OMOP Acute Liver Failure 1,1,21000789,Obesity,735340,Phentermine,Target Primary Indication->Comparator Primary Indication
+1118045,oxaprozin,500000301,OMOP Acute Liver Failure 1,1,21002811,Osteoarthritis,1150345,meloxicam,Target Primary Indication->Comparator Primary Indication
+19028050,Penicillamine,500000301,OMOP Acute Liver Failure 1,1,21002805,Rheumatoid Arthritis,1305058,Methotrexate,Target Primary Indication->Comparator Primary Indication
+1525215,pioglitazone,500000301,OMOP Acute Liver Failure 1,1,21000594,Type 2 Diabetes Mellitus,1560171,Glipizide,Target Primary Indication->Comparator Primary Indication
+1146810,Piroxicam,500000301,OMOP Acute Liver Failure 1,1,21002811,Osteoarthritis,1113648,nabumetone,Target Primary Indication->Comparator Primary Indication
+1704139,posaconazole,500000301,OMOP Acute Liver Failure 1,1,21013678,Prevention of Invasive Pulmonary Aspergillosis,1000632,Clotrimazole,Target Any Indication->Comparator Any Indication
+1554072,Propylthiouracil,500000301,OMOP Acute Liver Failure 1,1,21000580,Hyperthyroidism,1504620,Methimazole,Target Primary Indication->Comparator Primary Indication
+1331235,quinapril,500000301,OMOP Acute Liver Failure 1,1,21001432,Hypertension,1332418,Amlodipine,Target Primary Indication->Comparator Primary Indication
+1334456,Ramipril,500000301,OMOP Acute Liver Failure 1,1,21001432,Hypertension,974166,Hydrochlorothiazide,Target Primary Indication->Comparator Primary Indication
+1763204,Rifampin,500000301,OMOP Acute Liver Failure 1,1,21000040,Miliary Tuberculosis,1506270,Methylprednisolone,Target Primary Indication->Comparator Any Indication
+1781406,Stavudine,500000301,OMOP Acute Liver Failure 1,1,21000157,HIV Infection,1710281,tenofovir disoproxil,Target Primary Indication->Comparator Primary Indication
+1836503,Sulfisoxazole,500000301,OMOP Acute Liver Failure 1,1,21001385,Acute Otitis Media Infection,1713332,Amoxicillin,Target Primary Indication->Comparator Primary Indication
+1236607,Sulindac,500000301,OMOP Acute Liver Failure 1,1,21002827,Ankylosing Spondylitis,1506270,Methylprednisolone,Target Primary Indication->Comparator Any Indication
+1436678,Tamoxifen,500000301,OMOP Acute Liver Failure 1,1,21000529,Prevention of Breast Carcinoma,1513103,Raloxifene,Target Primary Indication->Comparator Any Indication
+19011093,Tenofovir,500000301,OMOP Acute Liver Failure 1,1,21000157,HIV Infection,1710281,tenofovir disoproxil,Target Primary Indication->Comparator Primary Indication
+1741309,terbinafine,500000301,OMOP Acute Liver Failure 1,1,21000309,Onychomycosis due to Dermatophyte,950098,ciclopirox,Target Primary Indication->Comparator Primary Indication
+1837289,Thiabendazole,500000301,OMOP Acute Liver Failure 1,1,21000383,Cutaneous Larva Migrans,1506270,Methylprednisolone,Target Any Indication->Comparator Any Indication
+1437379,Thioguanine,500000301,OMOP Acute Liver Failure 1,1,21000485,Acute Myeloid Leukemia,1311078,Cytarabine,Target Primary Indication->Comparator Primary Indication
+1736999,tipranavir,500000301,OMOP Acute Liver Failure 1,1,21000157,HIV Infection,1704183,Lamivudine,Target Primary Indication->Comparator Primary Indication
+715727,tolcapone,500000301,OMOP Acute Liver Failure 1,1,21001057,Idiopathic Parkinsonism,782211,entacapone,Target Primary Indication->Comparator Primary Indication
+1102917,Tolmetin,500000301,OMOP Acute Liver Failure 1,1,21002811,Osteoarthritis,1150345,meloxicam,Target Primary Indication->Comparator Primary Indication
+1342439,trandolapril,500000301,OMOP Acute Liver Failure 1,1,21001432,Hypertension,974166,Hydrochlorothiazide,Target Primary Indication->Comparator Primary Indication
+1712549,trovafloxacin,500000301,OMOP Acute Liver Failure 1,1,21002320,Urinary Tract Infections,1705674,Trimethoprim,Target Primary Indication->Comparator Primary Indication
+745466,Valproate,500000301,OMOP Acute Liver Failure 1,1,21001117,Migraine Prevention,742267,topiramate,Target Primary Indication->Comparator Primary Indication
+1714277,voriconazole,500000301,OMOP Acute Liver Failure 1,1,21000348,Invasive Pulmonary Aspergillosis,1717240,Amphotericin B,Target Primary Indication->Comparator Any Indication
+1111706,zafirlukast,500000301,OMOP Acute Liver Failure 1,1,21001866,Bronchial Asthma,1137529,salmeterol,Target Primary Indication->Comparator Primary Indication
+1724827,Zalcitabine,500000301,OMOP Acute Liver Failure 1,1,21000157,HIV Infection,1710281,tenofovir disoproxil,Target Primary Indication->Comparator Primary Indication
+1710612,Zidovudine,500000301,OMOP Acute Liver Failure 1,1,21000157,HIV Infection,1710281,tenofovir disoproxil,Target Primary Indication->Comparator Primary Indication
+1703687,Acyclovir,500000401,OMOP Acute Renal Failure 1,1,21000183,Herpes Simplex Infection,1703603,famciclovir,Target Any Indication->Comparator Any Indication
+1167322,Allopurinol,500000401,OMOP Acute Renal Failure 1,1,21003276,Hyperuricemia,1151422,Probenecid,Target Primary Indication->Comparator Primary Indication
+1351557,candesartan,500000401,OMOP Acute Renal Failure 1,1,21001432,Hypertension,1308216,Lisinopril,Target Primary Indication->Comparator Primary Indication
+19026710,Capreomycin,500000401,OMOP Acute Renal Failure 1,1,21000039,Acute Tuberculosis,1749301,Ethambutol,Target Primary Indication->Comparator Primary Indication
+1340128,Captopril,500000401,OMOP Acute Renal Failure 1,1,21001432,Hypertension,1332418,Amlodipine,Target Primary Indication->Comparator Primary Indication
+992590,Chlorothiazide,500000401,OMOP Acute Renal Failure 1,1,21001583,Pulmonary Edema due to Chronic Heart Failure,956874,Furosemide,Target Primary Indication->Comparator Primary Indication
+19010482,Cyclosporine,500000401,OMOP Acute Renal Failure 1,1,21002685,Severe Recalcitrant Psoriasis,929638,Acitretin,Target Primary Indication->Comparator Primary Indication
+1126128,Diflunisal,500000401,OMOP Acute Renal Failure 1,1,21003079,Pain,1125315,Acetaminophen,Target Primary Indication->Comparator Primary Indication
+1342001,Enalaprilat,500000401,OMOP Acute Renal Failure 1,1,21001432,Hypertension,974166,Hydrochlorothiazide,Target Primary Indication->Comparator Primary Indication
+1195492,Etodolac,500000401,OMOP Acute Renal Failure 1,1,21003079,Pain,1125315,Acetaminophen,Target Primary Indication->Comparator Primary Indication
+1153928,Fenoprofen,500000401,OMOP Acute Renal Failure 1,1,21003079,Pain,1125315,Acetaminophen,Target Primary Indication->Comparator Primary Indication
+974166,Hydrochlorothiazide,500000401,OMOP Acute Renal Failure 1,1,21001432,Hypertension,1328165,Diltiazem,Target Primary Indication->Comparator Primary Indication
+1177480,Ibuprofen,500000401,OMOP Acute Renal Failure 1,1,21003079,Pain,1153013,Promethazine,Target Primary Indication->Comparator Primary Indication
+1185922,Ketoprofen,500000401,OMOP Acute Renal Failure 1,1,21003079,Pain,1125315,Acetaminophen,Target Primary Indication->Comparator Primary Indication
+1136980,Ketorolac,500000401,OMOP Acute Renal Failure 1,1,21003084,Severe Pain,19005061,ziconotide,Target Primary Indication->Comparator Primary Indication
+1308216,Lisinopril,500000401,OMOP Acute Renal Failure 1,1,21001432,Hypertension,1332418,Amlodipine,Target Primary Indication->Comparator Primary Indication
+1197736,Mefenamate,500000401,OMOP Acute Renal Failure 1,1,21002491,Dysmenorrhea,1125315,Acetaminophen,Target Primary Indication->Comparator Any Indication
+1150345,meloxicam,500000401,OMOP Acute Renal Failure 1,1,21002811,Osteoarthritis,1113648,nabumetone,Target Primary Indication->Comparator Primary Indication
+1310756,moexipril,500000401,OMOP Acute Renal Failure 1,1,21001432,Hypertension,1332418,Amlodipine,Target Primary Indication->Comparator Primary Indication
+1115008,Naproxen,500000401,OMOP Acute Renal Failure 1,1,21003079,Pain,1125315,Acetaminophen,Target Primary Indication->Comparator Primary Indication
+1312742,Olmesartan medoxomil,500000401,OMOP Acute Renal Failure 1,1,21001432,Hypertension,1308216,Lisinopril,Target Primary Indication->Comparator Primary Indication
+1118045,oxaprozin,500000401,OMOP Acute Renal Failure 1,1,21002811,Osteoarthritis,1150345,meloxicam,Target Primary Indication->Comparator Primary Indication
+1146810,Piroxicam,500000401,OMOP Acute Renal Failure 1,1,21002811,Osteoarthritis,1113648,nabumetone,Target Primary Indication->Comparator Primary Indication
+1317640,telmisartan,500000401,OMOP Acute Renal Failure 1,1,21001432,Hypertension,1308216,Lisinopril,Target Primary Indication->Comparator Primary Indication
+1103552,almotriptan,500000801,OMOP Acute myocardial Infarction  1,1,21001116,Migraine,1125315,Acetaminophen,Target Primary Indication->Comparator Any Indication
+1332418,Amlodipine,500000801,OMOP Acute myocardial Infarction  1,1,21001432,Hypertension,1308216,Lisinopril,Target Primary Indication->Comparator Primary Indication
+713109,Amoxapine,500000801,OMOP Acute myocardial Infarction  1,1,21001022,Depression,750982,Bupropion,Target Primary Indication->Comparator Primary Indication
+730548,Bromocriptine,500000801,OMOP Acute myocardial Infarction  1,1,21000614,Hyperprolactinemia,1558471,cabergoline,Target Primary Indication->Comparator Primary Indication
+1304643,darbepoetin alfa,500000801,OMOP Acute myocardial Infarction  1,1,21000808,Anemia due to Renal Failure,1514412,Nandrolone,Target Primary Indication->Comparator Primary Indication
+716968,Desipramine,500000801,OMOP Acute myocardial Infarction  1,1,21001022,Depression,750982,Bupropion,Target Primary Indication->Comparator Primary Indication
+1126128,Diflunisal,500000801,OMOP Acute myocardial Infarction  1,1,21003079,Pain,1125315,Acetaminophen,Target Primary Indication->Comparator Primary Indication
+1331270,Dipyridamole,500000801,OMOP Acute myocardial Infarction  1,1,21001622,Prevention of Cerebral Thrombosis,1322184,clopidogrel,Target Primary Indication->Comparator Any Indication
+1189697,eletriptan,500000801,OMOP Acute myocardial Infarction  1,1,21001116,Migraine,1125315,Acetaminophen,Target Primary Indication->Comparator Any Indication
+1342001,Enalaprilat,500000801,OMOP Acute myocardial Infarction  1,1,21001432,Hypertension,974166,Hydrochlorothiazide,Target Primary Indication->Comparator Primary Indication
+1301125,Epoetin Alfa,500000801,OMOP Acute myocardial Infarction  1,1,21000808,Anemia due to Renal Failure,1514412,Nandrolone,Target Primary Indication->Comparator Primary Indication
+1548195,Estradiol,500000801,OMOP Acute myocardial Infarction  1,1,21002508,Vasomotor Symptoms associated with Menopause,1512674,drospirenone,Target Primary Indication->Comparator Any Indication
+1549080,"Estrogens, Conjugated (USP)",500000801,OMOP Acute myocardial Infarction  1,1,21002508,Vasomotor Symptoms associated with Menopause,1506602,Methyltestosterone,Target Primary Indication->Comparator Primary Indication
+1525278,estropipate,500000801,OMOP Acute myocardial Infarction  1,1,21002508,Vasomotor Symptoms associated with Menopause,1506602,Methyltestosterone,Target Primary Indication->Comparator Primary Indication
+1195492,Etodolac,500000801,OMOP Acute myocardial Infarction  1,1,21003079,Pain,1125315,Acetaminophen,Target Primary Indication->Comparator Primary Indication
+1352141,Factor VIIa,500000801,OMOP Acute myocardial Infarction  1,1,21000848,Hemophilia A,1517070,desmopressin,Target Primary Indication->Comparator Any Indication
+1153928,Fenoprofen,500000801,OMOP Acute myocardial Infarction  1,1,21003079,Pain,1125315,Acetaminophen,Target Primary Indication->Comparator Primary Indication
+1156378,Flurbiprofen,500000801,OMOP Acute myocardial Infarction  1,1,21002811,Osteoarthritis,1150345,meloxicam,Target Primary Indication->Comparator Primary Indication
+1189458,frovatriptan,500000801,OMOP Acute myocardial Infarction  1,1,21001116,Migraine,1125315,Acetaminophen,Target Primary Indication->Comparator Any Indication
+778268,Imipramine,500000801,OMOP Acute myocardial Infarction  1,1,21003257,Nocturnal Enuresis,1517070,desmopressin,Target Primary Indication->Comparator Primary Indication
+1178663,Indomethacin,500000801,OMOP Acute myocardial Infarction  1,1,21000716,Gout,1101554,Colchicine,Target Primary Indication->Comparator Primary Indication
+1185922,Ketoprofen,500000801,OMOP Acute myocardial Infarction  1,1,21003079,Pain,1125315,Acetaminophen,Target Primary Indication->Comparator Primary Indication
+1136980,Ketorolac,500000801,OMOP Acute myocardial Infarction  1,1,21003084,Severe Pain,19005061,ziconotide,Target Primary Indication->Comparator Primary Indication
+1310756,moexipril,500000801,OMOP Acute myocardial Infarction  1,1,21001432,Hypertension,1332418,Amlodipine,Target Primary Indication->Comparator Primary Indication
+1113648,nabumetone,500000801,OMOP Acute myocardial Infarction  1,1,21002811,Osteoarthritis,1150345,meloxicam,Target Primary Indication->Comparator Primary Indication
+1118117,naratriptan,500000801,OMOP Acute myocardial Infarction  1,1,21001116,Migraine,1125315,Acetaminophen,Target Primary Indication->Comparator Any Indication
+1318853,Nifedipine,500000801,OMOP Acute myocardial Infarction  1,1,21001432,Hypertension,974166,Hydrochlorothiazide,Target Primary Indication->Comparator Primary Indication
+721724,Nortriptyline,500000801,OMOP Acute myocardial Infarction  1,1,21001022,Depression,750982,Bupropion,Target Primary Indication->Comparator Primary Indication
+1118045,oxaprozin,500000801,OMOP Acute myocardial Infarction  1,1,21002811,Osteoarthritis,1150345,meloxicam,Target Primary Indication->Comparator Primary Indication
+1146810,Piroxicam,500000801,OMOP Acute myocardial Infarction  1,1,21002811,Osteoarthritis,1113648,nabumetone,Target Primary Indication->Comparator Primary Indication
+1154077,rizatriptan,500000801,OMOP Acute myocardial Infarction  1,1,21001116,Migraine,1125315,Acetaminophen,Target Primary Indication->Comparator Any Indication
+1137460,Salsalate,500000801,OMOP Acute myocardial Infarction  1,1,21002811,Osteoarthritis,1150345,meloxicam,Target Primary Indication->Comparator Primary Indication
+1236607,Sulindac,500000801,OMOP Acute myocardial Infarction  1,1,21002827,Ankylosing Spondylitis,1506270,Methylprednisolone,Target Primary Indication->Comparator Any Indication
+1140643,Sumatriptan,500000801,OMOP Acute myocardial Infarction  1,1,21001116,Migraine,1125315,Acetaminophen,Target Primary Indication->Comparator Any Indication
+1102917,Tolmetin,500000801,OMOP Acute myocardial Infarction  1,1,21002811,Osteoarthritis,1150345,meloxicam,Target Primary Indication->Comparator Primary Indication
+1116031,zolmitriptan,500000801,OMOP Acute myocardial Infarction  1,1,21001116,Migraine,1125315,Acetaminophen,Target Primary Indication->Comparator Any Indication
+797617,Citalopram,500001003,HOI Upper GI #3,1,21001022,Depression,750982,Bupropion,Target Primary Indication->Comparator Primary Indication
+997881,Clindamycin,500001003,HOI Upper GI #3,1,21002731,Acne Vulgaris,1738521,Doxycycline,Target Primary Indication->Comparator Primary Indication
+1322184,clopidogrel,500001003,HOI Upper GI #3,1,21001462,Unstable Angina Pectoris,1301065,Dalteparin,Target Primary Indication->Comparator Primary Indication
+1126128,Diflunisal,500001003,HOI Upper GI #3,1,21003079,Pain,1125315,Acetaminophen,Target Primary Indication->Comparator Primary Indication
+715939,Escitalopram,500001003,HOI Upper GI #3,1,21000952,Major Depressive Disorder,715259,duloxetine,Target Primary Indication->Comparator Primary Indication
+1195492,Etodolac,500001003,HOI Upper GI #3,1,21003079,Pain,1125315,Acetaminophen,Target Primary Indication->Comparator Primary Indication
+1153928,Fenoprofen,500001003,HOI Upper GI #3,1,21003079,Pain,1125315,Acetaminophen,Target Primary Indication->Comparator Primary Indication
+755695,Fluoxetine,500001003,HOI Upper GI #3,1,21001022,Depression,750982,Bupropion,Target Primary Indication->Comparator Primary Indication
+1156378,Flurbiprofen,500001003,HOI Upper GI #3,1,21002811,Osteoarthritis,1150345,meloxicam,Target Primary Indication->Comparator Primary Indication
+1177480,Ibuprofen,500001003,HOI Upper GI #3,1,21003079,Pain,1153013,Promethazine,Target Primary Indication->Comparator Primary Indication
+1178663,Indomethacin,500001003,HOI Upper GI #3,1,21000716,Gout,1101554,Colchicine,Target Primary Indication->Comparator Primary Indication
+1185922,Ketoprofen,500001003,HOI Upper GI #3,1,21003079,Pain,1125315,Acetaminophen,Target Primary Indication->Comparator Primary Indication
+1136980,Ketorolac,500001003,HOI Upper GI #3,1,21003084,Severe Pain,19005061,ziconotide,Target Primary Indication->Comparator Primary Indication
+1197736,Mefenamate,500001003,HOI Upper GI #3,1,21002491,Dysmenorrhea,1125315,Acetaminophen,Target Primary Indication->Comparator Any Indication
+1150345,meloxicam,500001003,HOI Upper GI #3,1,21002811,Osteoarthritis,1113648,nabumetone,Target Primary Indication->Comparator Primary Indication
+1113648,nabumetone,500001003,HOI Upper GI #3,1,21002811,Osteoarthritis,1150345,meloxicam,Target Primary Indication->Comparator Primary Indication
+1115008,Naproxen,500001003,HOI Upper GI #3,1,21003079,Pain,1125315,Acetaminophen,Target Primary Indication->Comparator Primary Indication
+1118045,oxaprozin,500001003,HOI Upper GI #3,1,21002811,Osteoarthritis,1150345,meloxicam,Target Primary Indication->Comparator Primary Indication
+1146810,Piroxicam,500001003,HOI Upper GI #3,1,21002811,Osteoarthritis,1113648,nabumetone,Target Primary Indication->Comparator Primary Indication
+19049105,Potassium Chloride,500001003,HOI Upper GI #3,1,21000756,Hypokalemia,987245,Lactulose,Target Any Indication->Comparator Any Indication
+739138,Sertraline,500001003,HOI Upper GI #3,1,21001022,Depression,750982,Bupropion,Target Primary Indication->Comparator Primary Indication
+1236607,Sulindac,500001003,HOI Upper GI #3,1,21002827,Ankylosing Spondylitis,1506270,Methylprednisolone,Target Primary Indication->Comparator Any Indication
+1102917,Tolmetin,500001003,HOI Upper GI #3,1,21002811,Osteoarthritis,1150345,meloxicam,Target Primary Indication->Comparator Primary Indication
+1103374,valdecoxib,500001003,HOI Upper GI #3,1,21003079,Pain,1125315,Acetaminophen,Target Primary Indication->Comparator Primary Indication

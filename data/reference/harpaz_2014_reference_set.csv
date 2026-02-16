@@ -1,0 +1,138 @@
+EVENT_CONCEPT_NAME,DRUG_CONCEPT_NAME,GROUND_TRUTH
+Taste disorders,Pantoprazole,1
+Hematopoietic disorders,Pantoprazole,1
+Anaphylaxis,Dalfampridine,1
+Anaphylaxis,Mesalamine,1
+Anaphylaxis,Ketoconazole,1
+Angioedema,Fidaxomicin,1
+Atrial fibrillation,Solifenacin,1
+Bradycardia,Lacosamide,1
+Biliary tract disorders,Sunitinib,1
+Coronary Heart Disease,Niacin,1
+Drug reaction with eosinophilia and systemic symptoms (DRESS),Terbinafine,1
+Drug reaction with eosinophilia and systemic symptoms (DRESS),Mesalamine,1
+Drug reaction with eosinophilia and systemic symptoms (DRESS),Clopidogrel,1
+Dysphonia,Levalbuterol,1
+Dyspnea,Fidaxomicin,1
+Eosinophilic pneumonia,Clopidogrel,1
+Priapism,Amphetamine,1
+Priapism,Dextroamphetamine,1
+Priapism,Methylphenidate,1
+Priapism,Methamphetamine,1
+Priapism,Dexmethylphenidate,1
+Priapism,Lisdexamfetamine,1
+Gastrooesophageal reflux disease (GERD),Levalbuterol,1
+Hallucinations,Guanfacine,1
+Hallucinations,Lacosamide,1
+Hallucinations,Lisinopril,1
+Hemophilia A,Clopidogrel,1
+Hypercalcemia,Anastrozole,1
+Hypothyroidism,Oxcarbazepine,1
+Interstitial nephritis,Atazanavir,1
+Liver damage,Ketoconazole,1
+Liver damage,Ursodeoxycholate,1
+Movement disorders,Levetiracetam,1
+Movement disorders,Levocetirizine,1
+Nephrotic Syndrome,Emtricitabine,1
+Nephrotic Syndrome,Rilpivirine,1
+Nephrotic Syndrome,Tenofovir Disoproxil,1
+Nightmares,Zaleplon,1
+Nocturnal enuresis,Clozapine,1
+Ocular Toxicity,Ponatinib,1
+Osteonecrosis of the jaw,Sorafenib,1
+Palpitations,Solifenacin,1
+Peripheral vascular disorder,Amphetamine,1
+Peripheral vascular disorder,Dextroamphetamine,1
+Peripheral vascular disorder,Methylphenidate,1
+Peripheral vascular disorder,Methamphetamine,1
+Peripheral vascular disorder,Dexmethylphenidate,1
+Peripheral vascular disorder,Lisdexamfetamine,1
+Pruritis,Exemestane,1
+QT prolongation,Trimethoprim,1
+QT prolongation,Sulfamethoxazole,1
+Severely depressed HDL cholesterol,Fenofibrate,1
+Sprue-like enteropathy,Olmesartan,1
+Severe bullous dermatitis,Mesalamine,1
+Severe bullous dermatitis,Vigabatrin,1
+Severe bullous dermatitis,Ondansetron,1
+Tachycardia,Solifenacin,1
+Thrombocytopenia,Rosuvastatin,1
+Thrombocytopenia,Alfuzosin,1
+Thrombotic microangiopathy,Pazopanib,1
+Urticaria,Exemestane,1
+Vasculitis,Nitrofurantoin,1
+Taste disorders,Mesalamine,0
+Taste disorders,Solifenacin,0
+Hematopoietic disorders,Ketoconazole,0
+Hematopoietic disorders,Levalbuterol,0
+Anaphylaxis,Fenofibrate,0
+Anaphylaxis,Atazanavir,0
+Anaphylaxis,Ursodeoxycholate,0
+Anaphylaxis,Lacosamide,0
+Angioedema,Pazopanib,0
+Atrial fibrillation,Vigabatrin,0
+Bradycardia,Nitrofurantoin,0
+Biliary tract disorders,Clopidogrel,0
+Coronary Heart Disease,Dalfampridine,0
+Drug reaction with eosinophilia and systemic symptoms (DRESS),Methamphetamine,0
+Drug reaction with eosinophilia and systemic symptoms (DRESS),Rilpivirine,0
+Drug reaction with eosinophilia and systemic symptoms (DRESS),Vigabatrin,0
+Drug reaction with eosinophilia and systemic symptoms (DRESS),Ponatinib,0
+Dysphonia,Lisdexamfetamine,0
+Dysphonia,Olmesartan,0
+Dyspnea,Levetiracetam,0
+Dyspnea,Pantoprazole,0
+Eosinophilic pneumonia,Levalbuterol,0
+Priapism,Exemestane,0
+Priapism,Fidaxomicin,0
+Priapism,Clopidogrel,0
+Priapism,Sunitinib,0
+Priapism,Solifenacin,0
+Priapism,Anastrozole,0
+Gastrooesophageal reflux disease (GERD),Lacosamide,0
+Hallucinations,Rilpivirine,0
+Hallucinations,Mesalamine,0
+Hallucinations,Niacin,0
+Hemophilia A,Amphetamine,0
+Hemophilia A,Sulfamethoxazole,0
+Hypercalcemia,Clopidogrel,0
+Hypercalcemia,Methamphetamine,0
+Hypothyroidism,Lisinopril,0
+Hypothyroidism,Methylphenidate,0
+Interstitial nephritis,Dexmethylphenidate,0
+Liver damage,Dalfampridine,0
+Liver damage,Lisdexamfetamine,0
+Movement disorders,Rosuvastatin,0
+Movement disorders,Alfuzosin,0
+Nephrotic Syndrome,Amphetamine,0
+Nephrotic Syndrome,Zaleplon,0
+Nephrotic Syndrome,Solifenacin,0
+Nightmares,Dextroamphetamine,0
+Nightmares,Methylphenidate,0
+Nocturnal enuresis,Ondansetron,0
+Nocturnal enuresis,Oxcarbazepine,0
+Ocular Toxicity,Trimethoprim,0
+Osteonecrosis of the jaw,Lacosamide,0
+Palpitations,Fidaxomicin,0
+Peripheral vascular disorder,Trimethoprim,0
+Peripheral vascular disorder,Clozapine,0
+Peripheral vascular disorder,Tenofovir Disoproxil,0
+Peripheral vascular disorder,Rosuvastatin,0
+Peripheral vascular disorder,Terbinafine,0
+Peripheral vascular disorder,Sorafenib,0
+Peripheral vascular disorder,Ondansetron,0
+Pruritis,Lisdexamfetamine,0
+QT prolongation,Mesalamine,0
+QT prolongation,Pantoprazole,0
+Severely depressed HDL cholesterol,Dexmethylphenidate,0
+Sprue-like enteropathy,Solifenacin,0
+Severe bullous dermatitis,Exemestane,0
+Severe bullous dermatitis,Levocetirizine,0
+Severe bullous dermatitis,Zaleplon,0
+Severe bullous dermatitis,Levalbuterol,0
+Tachycardia,Levetiracetam,0
+Thrombocytopenia,Dextroamphetamine,0
+Thrombocytopenia,Anastrozole,0
+Thrombotic microangiopathy,Emtricitabine,0
+Urticaria,Guanfacine,0
+Vasculitis,Ketoconazole,0

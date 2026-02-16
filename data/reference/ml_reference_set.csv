@@ -1,0 +1,77 @@
+active_ingredient,reaction,label,control_type,a,expected,prr,ror,ebgm,ic
+clozapine,• Agranulocytosis,1,positive,261,29.3539,11.8184,11.9606,8.8153,3.1544
+clozapine,• Neutropenia,1,positive,2856,208.9346,22.6391,26.2115,13.66,3.773
+clozapine,• Myocarditis,1,positive,2494,123.5716,50.4346,57.4156,20.1782,4.3351
+clozapine,• Weight Increased,1,positive,292,82.846,3.8323,3.874,3.516,1.8196
+olanzapine,• Weight Increased,1,positive,162,10.0362,17.1384,18.2884,16.0059,4.0166
+olanzapine,• Diabetes Mellitus,1,positive,32,3.3319,10.0638,10.186,8.955,3.2849
+haloperidol,• Neuroleptic Malignant Syndrome,1,positive,77,0.9494,91.3905,99.9076,80.5943,6.3492
+atorvastatin,• Rhabdomyolysis,1,positive,86,1.2612,75.2465,83.2295,67.8668,6.0983
+ezetimibe; simvastatin,• Rhabdomyolysis,1,positive,25,0.1743,148.9667,187.2728,138.5842,7.1862
+rosuvastatin calcium,• Rhabdomyolysis,1,positive,95,1.7359,60.9859,66.0532,54.5396,5.7804
+amlodipine besilate; atorvastatin calcium,• Myalgia,1,positive,5,4.3203,1.2599,1.2756,1.199,0.3408
+ezetimibe; simvastatin,• Myalgia,1,positive,20,5.5354,3.6753,4.2051,3.4879,1.883
+celecoxib,• Gastrointestinal Haemorrhage,1,positive,142,11.2074,13.7753,14.2043,12.477,3.6678
+diclofenac,• Gastrointestinal Haemorrhage,1,positive,6,0.3323,19.4728,20.4373,13.4718,4.2841
+codeine phosphate hemihydrate; ibuprofen,• Gastrointestinal Haemorrhage,1,positive,10,0.4601,22.8188,24.1624,19.5284,4.508
+naproxen,• Gastrointestinal Haemorrhage,1,positive,56,4.6005,12.6545,13.0319,11.6916,3.6175
+celecoxib,• Renal Impairment,1,positive,78,21.4254,3.7278,3.7775,3.6059,1.873
+diclofenac potassium; diclofenac sodium,• Renal Impairment,1,positive,37,8.7754,4.3078,4.3783,4.1112,2.0947
+warfarin sodium,• Haemorrhage,1,positive,112,4.4215,27.1764,28.9628,25.2723,4.6684
+heparin calcium,• Thrombocytopenia,1,positive,42,1.6971,25.1313,30.7203,24.5483,4.643
+rivaroxaban,• Haemorrhage,1,positive,135,6.567,22.3441,23.5106,20.4728,4.3662
+enoxaparin sodium,• Thrombocytopenia,1,positive,96,10.0846,9.7279,10.4064,9.2943,3.2577
+carbamazepine,• Stevens-Johnson Syndrome,1,positive,99,3.9538,27.9899,28.9833,24.9708,4.6524
+lamotrigine,• Stevens-Johnson Syndrome,1,positive,66,1.4619,48.7817,52.0558,44.9672,5.506
+phenytoin sodium,• Stevens-Johnson Syndrome,1,positive,52,2.7756,19.9446,20.4638,18.4049,4.2403
+carbamazepine,• Hyponatraemia,1,positive,196,11.1617,18.9214,20.2725,17.4684,4.1374
+sodium valproate,• Pancreatitis,1,positive,35,5.1594,6.9943,7.1053,6.4581,2.7818
+sodium valproate,• Thrombocytopenia,1,positive,99,14.7234,6.8696,7.1847,6.6058,2.7561
+ciprofloxacin,• Tendon Rupture,1,positive,29,0.1392,259.326,272.6371,199.4978,7.7212
+ciprofloxacin,• Tendon Disorder,1,positive,3,0.0552,66.0055,66.3856,42.8614,5.9749
+amoxicillin,• Anaphylactic Reaction,1,positive,118,8.1565,14.6541,18.674,14.2472,3.8593
+flucloxacillin sodium monohydrate,• Hepatitis,1,positive,155,13.3443,12.3689,12.877,11.443,3.5421
+sertraline hydrochloride,• Serotonin Syndrome,1,positive,88,6.4992,15.3233,15.5416,13.2317,3.7662
+desvenlafaxine,• Serotonin Syndrome,1,positive,37,0.9163,42.9636,44.9443,40.1197,5.353
+fluoxetine hydrochloride,• Serotonin Syndrome,1,positive,53,1.9815,28.9879,29.8463,26.6191,4.7535
+methotrexate,• Pancytopenia,1,positive,198,6.0862,37.8901,40.564,32.5,5.0267
+ciclosporin,• Renal Impairment,1,positive,72,6.777,10.9081,11.4542,10.2837,3.4185
+tacrolimus,• Renal Impairment,1,positive,41,6.3128,6.6389,6.8259,6.2378,2.716
+infliximab,• Tuberculosis,1,positive,11,0.7432,16.5989,16.6513,12.3473,3.9465
+adalimumab,• Tuberculosis,1,positive,39,0.7965,67.2947,68.0144,48.6031,5.6268
+amiodarone hydrochloride,• Hypothyroidism,1,positive,79,1.0828,88.4593,93.0838,72.5547,6.196
+amiodarone hydrochloride,• Pulmonary Fibrosis,1,positive,70,0.8353,104.9185,109.7623,83.1991,6.3966
+metformin hydrochloride,• Lactic Acidosis,1,positive,247,0.7494,1038.3184,1264.8171,326.8937,8.3649
+lithium carbonate,• Hypothyroidism,1,positive,22,0.5134,45.8902,47.2767,42.362,5.4513
+allopurinol,• Stevens-Johnson Syndrome,1,positive,58,2.547,24.3885,25.1715,22.608,4.5204
+doxorubicin hydrochloride,• Cardiomyopathy,1,positive,26,2.7347,9.916,10.0451,8.7338,3.2754
+prednisolone,• Osteoporosis,1,positive,52,5.1442,10.6646,10.8267,9.6684,3.3504
+naloxone hydrochloride dihydrate; oxycodone hydrochloride,• Drug Dependence,1,positive,16,0.7783,21.4253,22.2081,19.3393,4.4038
+isotretinoin,• Depression,1,positive,167,7.5111,23.0003,27.5025,22.1818,4.4781
+sulfamethoxazole; trimethoprim,• Stevens-Johnson Syndrome,1,positive,112,6.6546,19.0462,19.4871,16.6476,4.0785
+simvastatin,• Hypothyroidism,0,negative,5,2.1547,2.565,2.5678,2.223,1.3501
+clozapine,• Osteoporosis,0,negative,6,32.5986,0.1943,0.1941,0.2003,-2.327
+clozapine,• Drug Dependence,0,negative,3,35.1762,0.0967,0.0965,0.1006,-3.3298
+allopurinol,• Cardiomyopathy,0,negative,3,2.661,1.3143,1.315,1.1966,0.3942
+metformin hydrochloride,• Cardiomyopathy,0,negative,7,2.0345,3.7007,3.7155,3.1637,1.881
+metformin hydrochloride,• Neuroleptic Malignant Syndrome,0,negative,4,1.4573,3.0946,3.1015,2.5249,1.625
+atorvastatin,• Neuroleptic Malignant Syndrome,0,negative,3,0.9399,3.728,3.7388,2.764,1.895
+clozapine,• Haemorrhage,0,negative,25,50.6416,0.4955,0.4949,0.5023,-0.9903
+metformin hydrochloride,• Rectal Haemorrhage,0,negative,4,2.5514,1.7638,1.7663,1.5817,0.8175
+allopurinol,• Rectal Haemorrhage,0,negative,6,3.3371,1.9501,1.9536,1.7845,0.9608
+metformin hydrochloride,• Gastrointestinal Haemorrhage,0,negative,4,3.5271,1.2749,1.2758,1.1868,0.3505
+warfarin sodium,• Weight Increased,0,negative,7,7.2333,1.036,1.0362,1.0028,0.0516
+methotrexate,• Weight Increased,0,negative,21,12.0665,1.7867,1.7925,1.7378,0.8328
+warfarin sodium,• Myalgia,0,negative,9,79.2063,0.1196,0.1148,0.1204,-3.06
+metformin hydrochloride,• Myalgia,0,negative,20,62.105,0.3294,0.3193,0.33,-1.5996
+clozapine,• Myalgia,0,negative,77,907.1823,0.083,0.0795,0.0855,-3.5492
+metformin hydrochloride,• Myocarditis,0,negative,19,8.4596,2.3091,2.3279,2.2204,1.2041
+atorvastatin,• Hyponatraemia,0,negative,6,3.5453,1.8327,1.8388,1.69,0.8735
+allopurinol,• Hyponatraemia,0,negative,6,7.1902,0.9029,0.9026,0.8764,-0.1463
+metformin hydrochloride,• Hyponatraemia,0,negative,15,5.4972,2.8272,2.848,2.6591,1.4947
+simvastatin,• Agranulocytosis,0,negative,3,4.5841,0.7616,0.7614,0.7327,-0.3903
+ibuprofen,• Serotonin Syndrome,0,negative,4,2.2252,2.0248,2.0271,1.7796,1.0147
+ceftriaxone,• Priapism,0,negative,4,0.8296,5.4875,5.4957,3.867,2.4359
+aspirin,• Drug Dependence,0,negative,3,5.9052,0.5908,0.5904,0.5783,-0.7555
+atenolol,• Pulmonary Fibrosis,0,negative,3,0.7281,4.8277,4.8374,3.3071,2.2625
+metoprolol tartrate,• Pulmonary Fibrosis,0,negative,4,0.7857,5.7683,5.7827,4.0204,2.5153

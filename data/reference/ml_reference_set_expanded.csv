@@ -1,0 +1,171 @@
+active_ingredient,reaction,label,control_type,source,a,expected,prr,ror,ebgm,ic
+clozapine,• Agranulocytosis,1,positive,original,261,29.3539,11.8184,11.9606,8.8153,3.1544
+clozapine,• Neutropenia,1,positive,original,2856,208.9346,22.6391,26.2115,13.66,3.773
+clozapine,• Myocarditis,1,positive,original,2494,123.5716,50.4346,57.4156,20.1782,4.3351
+clozapine,• Weight Increased,1,positive,original,292,82.846,3.8323,3.874,3.516,1.8196
+olanzapine,• Weight Increased,1,positive,original,162,10.0362,17.1384,18.2884,16.0059,4.0166
+olanzapine,• Diabetes Mellitus,1,positive,original,32,3.3319,10.0638,10.186,8.955,3.2849
+haloperidol,• Neuroleptic Malignant Syndrome,1,positive,original,77,0.9494,91.3905,99.9076,80.5943,6.3492
+atorvastatin,• Rhabdomyolysis,1,positive,original,86,1.2612,75.2465,83.2295,67.8668,6.0983
+ezetimibe; simvastatin,• Rhabdomyolysis,1,positive,original,25,0.1743,148.9667,187.2728,138.5842,7.1862
+rosuvastatin calcium,• Rhabdomyolysis,1,positive,original,95,1.7359,60.9859,66.0532,54.5396,5.7804
+amlodipine besilate; atorvastatin calcium,• Myalgia,1,positive,original,5,4.3203,1.2599,1.2756,1.199,0.3408
+ezetimibe; simvastatin,• Myalgia,1,positive,original,20,5.5354,3.6753,4.2051,3.4879,1.883
+celecoxib,• Gastrointestinal Haemorrhage,1,positive,original,142,11.2074,13.7753,14.2043,12.477,3.6678
+diclofenac,• Gastrointestinal Haemorrhage,1,positive,original,6,0.3323,19.4728,20.4373,13.4718,4.2841
+codeine phosphate hemihydrate; ibuprofen,• Gastrointestinal Haemorrhage,1,positive,original,10,0.4601,22.8188,24.1624,19.5284,4.508
+naproxen,• Gastrointestinal Haemorrhage,1,positive,original,56,4.6005,12.6545,13.0319,11.6916,3.6175
+celecoxib,• Renal Impairment,1,positive,original,78,21.4254,3.7278,3.7775,3.6059,1.873
+diclofenac potassium; diclofenac sodium,• Renal Impairment,1,positive,original,37,8.7754,4.3078,4.3783,4.1112,2.0947
+warfarin sodium,• Haemorrhage,1,positive,original,112,4.4215,27.1764,28.9628,25.2723,4.6684
+heparin calcium,• Thrombocytopenia,1,positive,original,42,1.6971,25.1313,30.7203,24.5483,4.643
+rivaroxaban,• Haemorrhage,1,positive,original,135,6.567,22.3441,23.5106,20.4728,4.3662
+enoxaparin sodium,• Thrombocytopenia,1,positive,original,96,10.0846,9.7279,10.4064,9.2943,3.2577
+carbamazepine,• Stevens-Johnson Syndrome,1,positive,original,99,3.9538,27.9899,28.9833,24.9708,4.6524
+lamotrigine,• Stevens-Johnson Syndrome,1,positive,original,66,1.4619,48.7817,52.0558,44.9672,5.506
+phenytoin sodium,• Stevens-Johnson Syndrome,1,positive,original,52,2.7756,19.9446,20.4638,18.4049,4.2403
+carbamazepine,• Hyponatraemia,1,positive,original,196,11.1617,18.9214,20.2725,17.4684,4.1374
+sodium valproate,• Pancreatitis,1,positive,original,35,5.1594,6.9943,7.1053,6.4581,2.7818
+sodium valproate,• Thrombocytopenia,1,positive,original,99,14.7234,6.8696,7.1847,6.6058,2.7561
+ciprofloxacin,• Tendon Rupture,1,positive,original,29,0.1392,259.326,272.6371,199.4978,7.7212
+ciprofloxacin,• Tendon Disorder,1,positive,original,3,0.0552,66.0055,66.3856,42.8614,5.9749
+amoxicillin,• Anaphylactic Reaction,1,positive,original,118,8.1565,14.6541,18.674,14.2472,3.8593
+flucloxacillin sodium monohydrate,• Hepatitis,1,positive,original,155,13.3443,12.3689,12.877,11.443,3.5421
+sertraline hydrochloride,• Serotonin Syndrome,1,positive,original,88,6.4992,15.3233,15.5416,13.2317,3.7662
+desvenlafaxine,• Serotonin Syndrome,1,positive,original,37,0.9163,42.9636,44.9443,40.1197,5.353
+fluoxetine hydrochloride,• Serotonin Syndrome,1,positive,original,53,1.9815,28.9879,29.8463,26.6191,4.7535
+methotrexate,• Pancytopenia,1,positive,original,198,6.0862,37.8901,40.564,32.5,5.0267
+ciclosporin,• Renal Impairment,1,positive,original,72,6.777,10.9081,11.4542,10.2837,3.4185
+tacrolimus,• Renal Impairment,1,positive,original,41,6.3128,6.6389,6.8259,6.2378,2.716
+infliximab,• Tuberculosis,1,positive,original,11,0.7432,16.5989,16.6513,12.3473,3.9465
+adalimumab,• Tuberculosis,1,positive,original,39,0.7965,67.2947,68.0144,48.6031,5.6268
+amiodarone hydrochloride,• Hypothyroidism,1,positive,original,79,1.0828,88.4593,93.0838,72.5547,6.196
+amiodarone hydrochloride,• Pulmonary Fibrosis,1,positive,original,70,0.8353,104.9185,109.7623,83.1991,6.3966
+metformin hydrochloride,• Lactic Acidosis,1,positive,original,247,0.7494,1038.3184,1264.8171,326.8937,8.3649
+lithium carbonate,• Hypothyroidism,1,positive,original,22,0.5134,45.8902,47.2767,42.362,5.4513
+allopurinol,• Stevens-Johnson Syndrome,1,positive,original,58,2.547,24.3885,25.1715,22.608,4.5204
+doxorubicin hydrochloride,• Cardiomyopathy,1,positive,original,26,2.7347,9.916,10.0451,8.7338,3.2754
+prednisolone,• Osteoporosis,1,positive,original,52,5.1442,10.6646,10.8267,9.6684,3.3504
+naloxone hydrochloride dihydrate; oxycodone hydrochloride,• Drug Dependence,1,positive,original,16,0.7783,21.4253,22.2081,19.3393,4.4038
+isotretinoin,• Depression,1,positive,original,167,7.5111,23.0003,27.5025,22.1818,4.4781
+sulfamethoxazole; trimethoprim,• Stevens-Johnson Syndrome,1,positive,original,112,6.6546,19.0462,19.4871,16.6476,4.0785
+simvastatin,• Hypothyroidism,0,negative,original,5,2.1547,2.565,2.5678,2.223,1.3501
+clozapine,• Osteoporosis,0,negative,original,6,32.5986,0.1943,0.1941,0.2003,-2.327
+clozapine,• Drug Dependence,0,negative,original,3,35.1762,0.0967,0.0965,0.1006,-3.3298
+allopurinol,• Cardiomyopathy,0,negative,original,3,2.661,1.3143,1.315,1.1966,0.3942
+metformin hydrochloride,• Cardiomyopathy,0,negative,original,7,2.0345,3.7007,3.7155,3.1637,1.881
+metformin hydrochloride,• Neuroleptic Malignant Syndrome,0,negative,original,4,1.4573,3.0946,3.1015,2.5249,1.625
+atorvastatin,• Neuroleptic Malignant Syndrome,0,negative,original,3,0.9399,3.728,3.7388,2.764,1.895
+clozapine,• Haemorrhage,0,negative,original,25,50.6416,0.4955,0.4949,0.5023,-0.9903
+metformin hydrochloride,• Rectal Haemorrhage,0,negative,original,4,2.5514,1.7638,1.7663,1.5817,0.8175
+allopurinol,• Rectal Haemorrhage,0,negative,original,6,3.3371,1.9501,1.9536,1.7845,0.9608
+metformin hydrochloride,• Gastrointestinal Haemorrhage,0,negative,original,4,3.5271,1.2749,1.2758,1.1868,0.3505
+warfarin sodium,• Weight Increased,0,negative,original,7,7.2333,1.036,1.0362,1.0028,0.0516
+methotrexate,• Weight Increased,0,negative,original,21,12.0665,1.7867,1.7925,1.7378,0.8328
+warfarin sodium,• Myalgia,0,negative,original,9,79.2063,0.1196,0.1148,0.1204,-3.06
+metformin hydrochloride,• Myalgia,0,negative,original,20,62.105,0.3294,0.3193,0.33,-1.5996
+clozapine,• Myalgia,0,negative,original,77,907.1823,0.083,0.0795,0.0855,-3.5492
+metformin hydrochloride,• Myocarditis,0,negative,original,19,8.4596,2.3091,2.3279,2.2204,1.2041
+atorvastatin,• Hyponatraemia,0,negative,original,6,3.5453,1.8327,1.8388,1.69,0.8735
+allopurinol,• Hyponatraemia,0,negative,original,6,7.1902,0.9029,0.9026,0.8764,-0.1463
+metformin hydrochloride,• Hyponatraemia,0,negative,original,15,5.4972,2.8272,2.848,2.6591,1.4947
+simvastatin,• Agranulocytosis,0,negative,original,3,4.5841,0.7616,0.7614,0.7327,-0.3903
+ibuprofen,• Serotonin Syndrome,0,negative,original,4,2.2252,2.0248,2.0271,1.7796,1.0147
+ceftriaxone,• Priapism,0,negative,original,4,0.8296,5.4875,5.4957,3.867,2.4359
+aspirin,• Drug Dependence,0,negative,original,3,5.9052,0.5908,0.5904,0.5783,-0.7555
+atenolol,• Pulmonary Fibrosis,0,negative,original,3,0.7281,4.8277,4.8374,3.3071,2.2625
+metoprolol tartrate,• Pulmonary Fibrosis,0,negative,original,4,0.7857,5.7683,5.7827,4.0204,2.5153
+allopurinol,• Hepatocellular Injury,1,positive,OMOP,5,0.7467,7.4637,7.4834,5.1146,2.8778
+bortezomib,• Hepatitis B Reactivation,1,positive,OMOP,5,0.0477,129.5545,130.4512,92.9354,6.8299
+bosentan monohydrate,• Hepatotoxicity,1,positive,OMOP,5,0.2988,18.5013,18.7632,11.478,4.1987
+captopril,• Hepatocellular Injury,1,positive,OMOP,3,1.8198,1.9276,1.9284,1.6542,0.9408
+carbamazepine,• Hepatitis,1,positive,OMOP,87,10.2892,8.7762,9.0268,8.2493,3.0876
+celecoxib,• Hepatocellular Injury,1,positive,OMOP,10,1.814,5.9544,5.9663,4.8727,2.5303
+ciprofloxacin,• Liver Injury,1,positive,OMOP,5,0.3173,17.5117,17.6639,10.6998,4.1121
+clozapine,• Hepatitis C Virus Test Positive,1,positive,OMOP,5,0.3032,31.9753,31.9837,11.2797,4.1105
+ciclosporin,• Hepatotoxicity,1,positive,OMOP,6,1.1142,5.878,5.9009,4.4781,2.5426
+didanosine,• Hepatitis,1,positive,OMOP,6,0.4443,14.5393,15.3012,9.6133,3.8645
+diltiazem hydrochloride,• Drug-Induced Liver Injury,1,positive,OMOP,5,0.6594,8.4079,8.4481,5.6078,3.0578
+erythromycin estolate,• Hepatitis Cholestatic,1,positive,OMOP,12,0.0792,157.9187,192.6353,140.746,7.2911
+fluconazole,• Liver Injury,1,positive,OMOP,6,0.3126,21.0708,21.2932,14.5846,4.3748
+flutamide,• Hepatic Failure,1,positive,OMOP,3,0.0833,41.835,43.177,25.1213,5.3849
+gemcitabine hydrochloride,• Hepatitis B,1,positive,OMOP,3,0.054,67.7655,68.1183,43.9198,6.0033
+ibuprofen,• Acute Hepatic Failure,1,positive,OMOP,3,0.5616,6.2951,6.3043,3.931,2.6355
+imatinib,• Drug-Induced Liver Injury,1,positive,OMOP,8,0.8033,10.7397,10.8069,7.7514,3.4012
+infliximab,• Autoimmune Hepatitis,1,positive,OMOP,17,0.7948,24.5244,24.6449,20.3537,4.4556
+interferon beta-1a,• Autoimmune Hepatitis,1,positive,OMOP,4,0.0966,47.5209,48.0271,34.8824,5.5353
+isoniazid,• Drug-Induced Liver Injury,1,positive,OMOP,9,0.2451,39.4156,40.4032,35.3253,5.273
+itraconazole,• Hepatitis,1,positive,OMOP,5,0.4186,13.0461,13.6512,8.0734,3.7091
+lamivudine,• Hepatitis Viral,1,positive,OMOP,3,0.0095,414.8713,419.7078,191.5768,8.4827
+lamotrigine,• Hepatic Failure,1,positive,OMOP,3,0.7917,4.4315,4.4431,3.1218,2.1422
+lisinopril,• Hepatitis,1,positive,OMOP,4,2.7541,1.6323,1.6361,1.4794,0.7071
+methotrexate,• Liver Injury,1,positive,OMOP,13,1.5503,8.9868,9.0237,7.2281,3.1201
+methyldopa; methyldopa sesquihydrate,• Hepatitis,1,positive,OMOP,47,3.2645,14.7967,15.5745,13.8316,3.8619
+naproxen,• Hepatitis,1,positive,OMOP,10,6.6097,1.5896,1.593,1.5211,0.667
+nefazodone hydrochloride,• Hepatitis,1,positive,OMOP,10,1.2228,8.5903,8.8367,6.8086,3.0997
+nevirapine,• Hepatotoxicity,1,positive,OMOP,5,0.151,36.5232,37.588,28.4483,5.1814
+nicotinic acid,• Hepatitis,1,positive,OMOP,3,0.5582,6.2346,6.3572,3.9469,2.6436
+nifedipine,• Hepatitis Cholestatic,1,positive,OMOP,6,1.3821,4.7243,4.7448,3.7779,2.2321
+nitrofurantoin,• Hepatitis,1,positive,OMOP,57,2.945,19.9383,21.399,19.0833,4.286
+norfloxacin,• Acute Hepatic Failure,1,positive,OMOP,4,0.1826,25.061,25.227,14.7347,4.6184
+penicillamine,• Hepatitis,1,positive,OMOP,3,0.6793,5.1282,5.2074,3.4664,2.361
+piroxicam,• Hepatitis,1,positive,OMOP,15,4.4138,3.5234,3.5563,3.2608,1.8113
+ramipril,• Drug-Induced Liver Injury,1,positive,OMOP,4,0.7411,6.106,6.1262,4.1906,2.5999
+rifampicin,• Hepatitis Cholestatic,1,positive,OMOP,13,0.8395,16.3047,16.5963,13.4034,4.0054
+stavudine,• Hepatitis,1,positive,OMOP,5,0.8666,6.3292,6.4558,4.581,2.6626
+sulindac,• Hepatitis Cholestatic,1,positive,OMOP,3,0.7638,4.5856,4.6048,3.2003,2.194
+tamoxifen citrate,• Drug-Induced Liver Injury,1,positive,OMOP,4,0.3845,11.7695,11.8517,6.7033,3.5461
+tenofovir disoproxil fumarate,• Hepatotoxicity,1,positive,OMOP,3,0.192,18.2328,18.4879,8.5748,4.1839
+terbinafine,• Hepatitis Cholestatic,1,positive,OMOP,10,1.1283,9.3986,9.4905,7.2993,3.2165
+sodium valproate,• Hepatic Necrosis,1,positive,OMOP,5,0.2261,25.7456,25.8154,16.4955,4.5946
+voriconazole,• Drug-Induced Liver Injury,1,positive,OMOP,8,0.306,28.1873,28.6848,23.6646,4.7925
+zidovudine,• Hepatitis,1,positive,OMOP,7,0.5802,12.8768,13.4648,8.9646,3.6874
+aciclovir,• Blood Creatinine Increased,1,positive,OMOP,12,0.7307,17.3339,17.6487,14.1883,4.0943
+allopurinol,• Acute Kidney Injury,1,positive,OMOP,90,9.7236,9.5147,9.9639,9.0256,3.2178
+candesartan cilexetil,• Renal Failure,1,positive,OMOP,11,0.8159,14.2011,14.4973,11.1207,3.8151
+captopril,• Renal Impairment,1,positive,OMOP,90,21.4938,4.3002,4.3695,4.1436,2.0736
+hydrochlorothiazide; olmesartan medoxomil,• Renal Impairment,1,positive,OMOP,5,0.2932,18.4772,20.2092,11.7458,4.2175
+ciclosporin,• Blood Creatinine Increased,1,positive,OMOP,32,1.5357,22.0477,22.5523,20.3828,4.402
+diflunisal,• Acute Kidney Injury,1,positive,OMOP,6,2.0848,3.1128,3.1488,2.692,1.6385
+ibuprofen,• Acute Kidney Injury,1,positive,OMOP,72,10.871,6.781,6.9963,6.467,2.7369
+ketoprofen,• Acute Kidney Injury,1,positive,OMOP,16,12.4224,1.3288,1.3312,1.2991,0.409
+ketorolac trometamol,• Oliguria,1,positive,OMOP,8,0.0935,93.526,96.545,80.3809,6.5
+lisinopril,• Acute Kidney Injury,1,positive,OMOP,43,4.0403,10.8692,11.476,10.0833,3.4273
+meloxicam,• Acute Kidney Injury,1,positive,OMOP,40,5.1877,7.8744,8.1759,7.3426,2.9638
+naproxen,• Acute Kidney Injury,1,positive,OMOP,46,9.6966,4.8414,4.9432,4.6298,2.2611
+amlodipine besilate; olmesartan medoxomil,• Acute Kidney Injury,1,positive,OMOP,5,0.1293,40.8889,52.1397,34.3976,5.3808
+piroxicam,• Acute Kidney Injury,1,positive,OMOP,16,6.4752,2.5525,2.5741,2.4256,1.3487
+telmisartan,• Anuria,1,positive,OMOP,3,0.098,36.3405,36.5809,19.9803,5.1514
+citalopram hydrobromide,• Haematemesis,1,positive,OMOP,3,1.8975,1.8435,1.8465,1.5977,0.8819
+clindamycin hydrochloride,• Melaena,1,positive,OMOP,5,1.5111,3.6405,3.664,2.983,1.8622
+clopidogrel,• Gastrointestinal Haemorrhage,1,positive,OMOP,100,4.1482,25.6561,27.2826,24.0335,4.5977
+diflunisal,• Duodenal Ulcer Haemorrhage,1,positive,OMOP,6,0.1141,58.4239,59.4023,49.3639,5.8264
+codeine phosphate hemihydrate; ibuprofen,• Gastric Ulcer Haemorrhage,1,positive,OMOP,3,0.0739,47.5074,48.4245,29.581,5.5585
+ketoprofen,• Gastric Ulcer Haemorrhage,1,positive,OMOP,26,0.947,30.7447,31.0904,27.1366,4.8035
+ketorolac trometamol,• Gastric Ulcer Haemorrhage,1,positive,OMOP,3,0.1101,31.9617,32.3699,16.9565,4.9856
+meloxicam,• Gastric Haemorrhage,1,positive,OMOP,12,0.1883,72.6344,73.5754,61.7672,6.0463
+naproxen,• Gastric Ulcer Haemorrhage,1,positive,OMOP,39,0.7392,62.004,63.372,52.3392,5.7366
+piroxicam,• Duodenal Ulcer Haemorrhage,1,positive,OMOP,26,0.3544,85.7288,87.6373,72.1435,6.2202
+potassium chloride,• Gastric Ulcer Haemorrhage,1,positive,OMOP,5,0.34,16.4051,16.508,9.911,4.0121
+sertraline hydrochloride,• Duodenal Ulcer Haemorrhage,1,positive,OMOP,4,1.7378,2.6127,2.6139,2.1895,1.3688
+sulindac,• Duodenal Ulcer Haemorrhage,1,positive,OMOP,5,0.1934,29.0307,29.2673,20.4689,4.8248
+allopurinol,• Aplastic Anaemia,1,positive,EU-ADR,17,0.5919,31.8802,32.1824,28.1493,4.8821
+captopril,• Aplastic Anaemia,1,positive,EU-ADR,3,1.4426,2.4375,2.4386,1.9969,1.2752
+carbamazepine,• Aplastic Anaemia,1,positive,EU-ADR,6,0.9189,7.2236,7.2381,5.1979,2.8189
+amoxicillin; clavulanic acid,• Hepatitis Cholestatic,1,positive,EU-ADR,37,0.921,42.6269,44.6959,39.9169,5.3457
+sulfasalazine,• Hepatic Necrosis,1,positive,EU-ADR,5,0.1236,47.1425,47.3814,36.2494,5.4657
+codeine phosphate hemihydrate; doxylamine succinate; paracetamol,• Blood Creatinine Increased,1,positive,EU-ADR,3,0.186,18.7641,19.1398,8.852,4.2287
+ciprofloxacin,• Renal Tubular Necrosis,1,positive,EU-ADR,3,0.1329,26.7219,26.8724,13.1158,4.7128
+lithium carbonate,• Renal Impairment,1,positive,EU-ADR,33,3.6646,9.2113,9.5947,8.4318,3.1913
+aspirin,• Gastric Ulcer Haemorrhage,1,positive,EU-ADR,70,1.3897,67.6872,69.1057,50.1557,5.6619
+heparin sodium,• Haematemesis,1,positive,EU-ADR,39,3.461,11.7314,11.9703,10.6196,3.5116
+prednisolone,• Gastric Ulcer Haemorrhage,1,positive,EU-ADR,8,1.3064,6.6562,6.6714,5.1738,2.699
+mesalazine,• Drug Reaction With Eosinophilia And Systemic Symptoms,1,positive,Harpaz,4,0.3847,11.7339,11.8436,6.6999,3.5452
+guanfacine hydrochloride,"• Hallucination, Visual",1,positive,Harpaz,4,0.0654,68.4093,72.2249,53.9661,6.0939
+levetiracetam,• Movement Disorder,1,positive,Harpaz,3,0.2654,13.2923,13.3518,6.4808,3.7172
+clozapine,• Urinary Incontinence,1,positive,Harpaz,91,35.0246,2.7485,2.7564,2.5879,1.3847
+olmesartan medoxomil,• Sprue-Like Enteropathy,1,positive,Harpaz,7,0.0025,10548.5714,10984.4215,801.3565,11.443
+rosuvastatin calcium,• Thrombocytopenia,1,positive,Harpaz,11,9.2398,1.2439,1.2462,1.2092,0.315
+nitrofurantoin,• Vasculitis,1,positive,Harpaz,4,0.8892,5.0726,5.0955,3.678,2.3375
+levetiracetam,• Dyspnoea,0,negative,Harpaz,4,30.437,0.1475,0.1422,0.1491,-2.7588
+pantoprazole sodium sesquihydrate,• Dyspnoea,0,negative,Harpaz,15,18.279,0.8459,0.8402,0.8378,-0.2396
