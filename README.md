@@ -161,7 +161,7 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 If you use this code, please cite:
 
-> Farquhar H. Computational Pharmacovigilance of Australia's Database of Adverse Event Notifications: A Multi-Method Signal Detection Study Using Disproportionality Analysis, Machine Learning, and Network Analysis. *[Manuscript submitted for publication]*. 2026.
+> Farquhar H. Computational Pharmacovigilance of Australia's Database of Adverse Event Notifications: A Multi-Method Signal Detection Study Using Disproportionality Analysis, Machine Learning, and Network Analysis. *Preprint*. https://doi.org/10.2139/ssrn.6397538. Manuscript under consideration at a peer-reviewed journal.. 2026.
 
 ## Contact
 
